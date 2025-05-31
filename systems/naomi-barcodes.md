@@ -1095,38 +1095,40 @@
 [Back to the Top](#card-barcodes-list)
 
 #### License
- | Codes         | Card Name           |
- | ------------- | ------------------- | 
- | LICENSEGRTEST | ???                 |
- | LICENSEPMAHCG | ???                 |
- | 3I8F86I7GTVCS | ???                 |
- | HMIDGUZJ8SDGX | ???                 |
- | JHXB2MFP148WL | ???                 |
- | AYNXIDT72HHGQ | ???                 |
+ | Codes         | Card Name                 |
+ | ------------- | ------------------------- |
+ | LICENSEGRTEST | Greatest Player           |
+ | LICENSEPMAHCG | License Greatest Champion |
+ | 3I8F86I7GTVCS | Red Aura License	     |
+ | HMIDGUZJ8SDGX | Blue Aura License         |
+ | JHXB2MFP148WL | Yellow Aura License       |
+ | AYNXIDT72HHGQ | Rainbow Aura License      |
  
 #### Mushi (location test)
- | Codes           | Card Name           |
- | --------------- | ------------------- | 
- | AKUTYIONB001    | ???                 |
- | GIRAFFAV001     | ???                 |
- | HERCULESB001    | ???                 |
- | GRANDISV001     | ???                 |
- | PALAWANV001     | ???                 |
- | CAUCASUSB001    | ???                 |
- | ZOUB001         | ???                 |
- | SEAKAV001       | ???                 |
- | NEPTUNEB001     | ???                 |
- | OOKUWAV001      | ???                 |
- | HIRATAV001      | ???                 |
- | ATLASB001       | ???                 |
- | GOHONB001       | ???                 |
- | JAPNOKOGIRIV001 | ???                 |
- | JAPKABUTOB001   | ???                 |
- | MENGATAV001     | ???                 |
- | HOSOAKAV001     | ???                 |
- | SHIROB001       | ???                 |
+ | Codes           | Card Name             |
+ | --------------- | --------------------- |
+ | AKUTYIONB001    | Actaeon Beetle        |
+ | GIRAFFAV001     | Giraffe Beetle        |
+ | HERCULESB001    | Hercules Beetle       |
+ | GRANDISV001     | Grand Stag Beetle     |
+ | PALAWANV001     | Palawan Stag Beetle   |
+ | CAUCASUSB001    | Caucasus Beetle       |
+ | ZOUB001         | Elephant Beetle       |
+ | SEAKAV001       | Parry Stag Beetle     |
+ | NEPTUNEB001     | Neptune Beetle        |
+ | OOKUWAV001      | Japanese Stag Beetle  |
+ | HIRATAV001      | Flat Stag Beetle      |
+ | ATLASB001       | Atlas Beetle          |
+ | GOHONB001       | Five Horned Beetle    |
+ | JAPNOKOGIRIV001 | Saw Tooth Stag Beetle |
+ | JAPKABUTOB001   | Japanese Beetle       |
+ | MENGATAV001     | Humorous Stag Beetle  |
+ | HOSOAKAV001     | Deer Stag Beetle      |
+ | SHIROB001       | Grant White Beetle    |
+ 
  
 #### Waza
+G = Hit C = Pinch = P = Paper
  | Codes         | Card Name           |
  | ------------- | ------------------- | 
  | G0L01W001M000 | ???                 |
