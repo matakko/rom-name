@@ -381,379 +381,379 @@
 [Back to the Top](#card-barcodes-list)
  
 #### Dress Up
-|???| Codes         | No.   | Color        | Type     | Card Name                  |
-|---|-------------- | ----- | ------------ | -------- | -------------------------- |
-| 1 | OH00ND34G1J D | 001E  |              | IDOL     | "LOVELY STRAWBERRY"        |
-| 1 | OH005A3599J D | 002E  |              | STREET   | "COMFY CASUAL"             |
-| 1 | OHACEI33PPJ D | 003E  |              | BALL     | "JASMIN DRESS"             |
-| 1 | OHAC-B34GFJ D | 004E  |              | SEASIDE  | "FLOWY PASTEL"             |
-| 1 | OH00GW354FJ D | 005E  |              | STREET   | "PASTEL FRUITY"            |
-| 1 | OHACEI354SJ D | 006E  |              | STREET   | "FITTED TEE GIRL"          |
-| 1 | OH00ND35A0J D | 007E  |              | DISCO    | "METALLIC DOWN"            |
-| 1 | OHAC-B34OKJ D | 008E  |              | SEASIDE  | "FAIRY LEAF"               |
-| 1 | OHAP3E33PBJ D | 009E  |              | BALL     | "SPARKLY PEARL DRESS"      |
-| 1 | OHRUSMI.C6J D | 010E  |              | STREET   | "GLITTER SHORT"            |
-| 1 | OH0AL933UUJ D | 011TC |              | BALL     | "FLORAL HOOP DRESS"        |
-| 1 | OH00GW34OJJ D | 012TC |              | IDOL     | "MOON CHINA"               |
-| 1 | OHACWP35A%J D | 013E  |              | STREET   | "COOL RAINBOW"             |
-| 1 | OH00UO359NJ D | 014E  |              | FASHION  | "COMFY SWEATER"            |
-| 1 | OH00UO354TJ D | 015E  |              | FASHION  | "CANDY CASUAL"             |
-| 1 | OHACQ-354UJ D | 016E  |              | STREET   | "BAGGY OVERALL"            |
-| 1 | OH005A3543J D | 017TC |              | STREET   | "SPORTY MIX JUMPER"        |
-| 1 | OH00UO34GSJ D | 018E  |              | SEASIDE  | "PINEAPPLE SUMMER"         |
-| 1 | OHAP3E354EJ D | 019E  |              | FASHION  | "CASUAL POP"               |
-| 1 | OH00GW35AKJ D | 020TC |              | STREET   | "MILITARY GIRL"            |
-| 1 | OH00GW34GEJ D | 021E  |              | IDOL     | "FANCY MARGARET"           |
-| 1 | OHAP3E33UHJ D | 022E  |              | BALL     | "CUTIE PINK DRESS"         |
-| 1 | OHAC-B354GJ D | 023TC |              | STREET   | "ACTIVE PARKA"             |
-| 1 | OH00ND33P8J D | 024TC |              | BALL     | "SKY BLUE DRESS"           |
-| 1 | OH00ND34B7J D | 025E  |              | IDOL     | "SPARKLY PURPLE"           |
-| 1 | OH00UO34OXJ D | 026E  |              | SEASIDE  | "TROPICAL SNOW"            |
-| 1 | OHAC-B359AJ D | 027E  |              | FASHION  | "REFRESHING TERED CAMI"    |
-| 1 | OHACWP34O0J D | 028E  |              | IDOL     | "LACY FRILL"               |
-| 1 | OH00ND33U2J D | 029E  |              | BALL     | "HONEY DRAPE"              |
-| 1 | OH00ND3545J D | 030E  |              | STREET   | "BABY BAGGY STYLE"         |
-| 1 | OH0NAE354HJ D | 031E  |              | FASHION  | "VITAMIN GIRL"             |
-| 1 | OH005A34O%J D | 032E  |              | SEASIDE  | "DOLPHIN QUEEN"            |
-| 1 | OHACWP34G5J D | 033ETC| PINK, YELLOW | SEASIDE  | "KIMONO FLOWER"            |
-| 1 | OHAP3E359DJ D | 034E  |              | STREET   | "BABY BLACK TEE"           |
-| 1 | OHAP3E34GIJ D | 035E  |              | IDOL     | "SWEET APRON"              |
-| 1 | OHACQ-359OJ D | 036E  |              | FASHION  | "PASTEL LOGO ONE-PIECE"    |
-| 1 | OH0AL934GVJ D | 037TC |              |          | "FLOWY ANGEL"              |
-| 1 | OHPFHSQW9JJ D | 038E  |              | BALL     | "CITRUS FRILL DRESS"       |
-| 1 | OHC-VYQWT3J D | 039E  |              | SEASIDE  | "SWEET AQUAMARINE"         |
-| 1 | OHCKKMQV36J D | 040E  | BLUE, GREEN  | BALL     | "ROYAL TORQUOISE"          |
-| 1 | OHP5TZQIABJ D | 041E  |              | SEASIDE  | "SUNLIGHT HONEY"           |
-| 1 | OHP5TZQWTGJ D | 042TC |              | DISCO    | "COOL MINT TIE"            |
-| 1 | OHC-23QIAOJ D | 043E  |              | IDOL     | "CHARMING APRIOOT"         |
-| 2 | OHPYA5QIADJ D | 044E  |              | IDOL     | "FLORAL CARNATION"         |
-| 2 | OH2XIYI-Q8J D | 045E  |              | IDOL     | "AMERICAN STAR GIRL"       |
-| 2 | OH2X.FI.HXJ D | 046E  |              | STREET   | "FUNKY CASUAL"             |
-| 2 | OH2XR3I.HVJ D | 047E  |              | DISCO    | "RETRO PLEATS"             |
-| 2 |             D | 048E  |              |          |                            |
-| 2 | OHRJLQIE1HJ D | 049E  |              | BALL     | "SUNFLOWER DRESS"          |
-| 2 | OHRU4 I.HIJ D | 050E  |              | DISCO    | "GO GO MINI ONE-PIECE"     |
-| 2 | OH2XIYI.C7J D | 051E  |              | STREET   | "SPORT CASUAL CARGO"       |
-| 2 | OHRU4 I.CCJ D | 052E  |              | FASHION  | "LADY ARGYLE"              |
-| 2 | OHRUSMI.C6J D | 053E  |              | DISCO    | "GLITTER SHORT"            |
-| 2 | OH2XXSI.HJJ D | 054E  | PINK, BLUE   | STREET   | "FEMININE B-GIRL"          |
-| 2 | OHR95LI-INJ D | 055E  |              | SEASIDE  | "CLEAR LIME GIRL"          |
-| 2 | OH2XR3I.CPJ D | 056E  | YELLOW, BLUE | DISCO    | "FLOWY MINI CELEB" (VER 5) |
-| 2 | OHRU4 I-QBJ D | 057E  |              | SEASIDE  | "SHINY CARIBBEAN"          |
-| 2 | OHRU0NI-I9J D | 058E  |              | IDOL     | "CANARY ONE-PIECE"         |
-| 2 | OH27ANIE68J D | 059E  |              | BALL     | "VICTORIAN ROSETTA"        |
-| 2 | OHR95LI.2OJ D | 060E  |              | FASHION  | "POP'N SWEETS"             |
-| 2 | OHRU0NI.C8J D | 061E  |              | DISCO    | "SAPPRHIRE BELL BOTTOMS"   |
-| 2 | OHR95LI-QSJ D | 062E  |              | IDOL     | "CUTIE RED"                |
-| 2 | OH2HFLI-QPJ D | 063TC |              |          | "VIVID ONE-PIECE"          |
-| 2 | O24VWDA0VKJ D | 064E  |              | IDOL     | "FANTASY DOLL"             |
-| 2 | O2SU72AN5NJ D | 065E  |              | DISCO    | "SPICY SAFARI"             |
-| 2 | O24VWDANSZJ D | 066E  |              | FASHION  | "STRAWBERRY CHEER GIRL"    |
-| 2 | O24V6RAN5RJ D | 067E  |              | FASHION  | "CAMOUFLAGE CATS"          |
-| 2 | O2479QAAIOJ D | 068E  |              | BALL     | "GARLAND LACE"             |
-| 2 | O2SHE8ANSMJ D | 069E  |              | STREET   | "BOYISH LAYERED"           |
-| 2 | O24ITEAN4 J D | 070E  |              | FASHION  | "TING D TRAD"              |
-| 2 | O2SUXQA0ARJ D | 071E  |              | SEASIDE  | "SNOW FANTASY"             |
-| 2 | O24IDWANSLJ D | 072E  |              | DISCO    | "ORANGE HIP HUNG"          |
-| 2 | O2SHURANSUJ D | 073E  | PINK, BLACK  | DISCO    | "PINKY ROCK'N ROLL"        |  
-| 2 | O2SUSIA0VWJ D | 074E  |              | IDOL     | "MILKY PINK BOLERO"        |
-| 2 | O2SHE8AN4.J D | 075E  |              |          | "OFF-SHOULDER ARMY"        |
-| 2 | O24V6RA0A9J D | 076ETC|              | IDOL     | "SYMPHONY FRILL"           |
-| 2 | O24V6RANSXJ D | 077E  |              | FASHION  | "VANILLA SWEATER"          |
-| 2 | O24V6RA0VIJ D | 078E  |              | SEASIDE  | "PRINCESS ALABESQUE"       |
-| 2 | O2S6-.AABDJ D | 079E  |              | BALL     | "ROMANTIC EMPIRE DRESS"    |
-| 2 | O24VWDA0ABJ D | 080E  |              | SEASIDE  | "SUNSET BEACH"             |
-|   |             D | 081E  |              |          |                            |
-| 3 | O2G3SH8KRZJ D | 082E  |              | STREET   | "CHEERFUL AND CASUAL COMBO"|
-| 3 | O2T4BL8XXBJ D | 083E  |              | STREET   | "CROPPED HOODY"            |
-| 3 | O2G3AN8XF4J D | 084E  |              | IDOL     | "HAPPINESS Q HEART"        |
-| 3 | O2TEH68XT.J D | 085E  |              | SEASIDE  | "SUNFLOWER ISLAND"         |
-| 3 | O2GQ3F87G J D | 086E  |              | BALL     | "RIBBON COMPLEND"          |
-| 3 | O2G3768KRDJ D | 087E  |              | SEASIDE  | "HALTER STRIPE"            |
-| 3 | O2TRFU8HDLJ D | 088E  |              | BALL     | "RAFFINE AMETHYST"         |
-| 3 | O2T4JC8XXHJ D | 089E  |              | STREET   | "DANCING STAR"             |
-| 3 | O2T46V8XXFJ D | 090E  |              | DISCO    | "ONE-SHOULDER GEM"         |
-| 3 | O2G3CY87ZUJ D | 091E  |              | IDOL     | "CLASSIC VIOLET"           |
-| 3 | O2T4R78KRYJ D | 092E  |              | FASHION  | "SUNNY SMILE"              |
-| 3 | O2TSN.8KR.J D | 093E  |              | STREET   | "AZUREGGAE GIRL"           |
-| 3 | O2TEXP87ZLJ D | 094E  |              | SEASIDE  | "SEABREEZE BLUE"           |
-| 3 | O2TRFU87H3J D | 095E  |              | BALL     | "GOLDEN FRESSIA"           |
-| 3 | O2T4R78XXNJ D | 096E  |              | DISCO    | "HIP HUGGER HEAVEN"        |
-| 3 | O2TEXP8XF3J D | 097E  |              | IDOL     | "CANDY PERFECTION"         |
-| 3 | O2T38T87ZOJ D | 098TC |              |          | "SOPHISTICATED CHIC"       |
-| 3 | O2T4BL87ZSJ D | 099E  |              | SEASIDE  | "TROPICAL PARADISE"        |
-| 3 | O2T46V8KRCJ D | 100E  |              | STREET   | "PLEASANT POLO"            |
-| 3 | O2G3KP8KR-J D | 101E  |              | STREET   | "TAILORED TOMBOY"          |
-| 3 | O2T4JC8KREJ D | 102E  |              | DISCO    | "TWILIGHT PARILLON"        |
-| 3 | O2GQG987H4J D | 103E  |              | BALL     | "GORGEOUS GARNET"          |
-| 3 | O2G3CY8KRXJ D | 104E  |              | FASHION  | "LACE A LA MODE"           |
-| 3 | O2GDIG87ZQJ D | 105E  |              | IDOL     | "RUFFLED LACE"             |
-| 3 | O2G3KP8XXOJ D | 106E  |              | STREET   | "PEPPER HOT PANTS"         |
-| 3 | O2G3768XXGJ D | 107E  |              | FASHION  | "RICAMO VEST"              |
-| 3 | O2GD5U8XT-J D | 108E  |              | IDOL     | "LYRICAL SCARLET"          |
-| 3 | O2GQG98HDMJ D | 109E  |              | BALL     | "GLOVER GARDEN"            |
-| 3 | O2G3AN87ZMJ D | 110E  |              | SEASIDE  | "LAYERS OF LIGHT"          |
-| 3 | O2G3CY8XXRJ D | 111E  |              | DISCO    | "60’ TWISTER"              |
-| 3 | O2TSN.8XXPJ D | 112E  |              | STREET   | "EAGLE FLIGHT PANTS"       |
-| 3 | O2G3SH8XXTJ D | 113E  |              | DISCO    | "PRETTY PANELS"            |
-| 3 | O2GDIG8XT J D | 114E  |              | SEASIDE  | "BLOOMING BREEZE"          |
-| 3 | O2TRQT8KRXJ D | 115TC |              | STREET   | "GINGER SNAP"              |
-| 3 | O2G29S8XXUJ D | 116TC |              | STREET   | "PEPPY-GO GIRL"            |
-| 3 | O2T4R787ZAJ D | 117TC |              | IDOL     | "FOREST FAIRY"             |
-| 3 | O2G3SH87ZBJ D | 118E  |              | SEASIDE  | "FAR SHORES COMBO"         |
-| 3 | O2G2U38XXMJ D | 119TC |              | FASHION  | "VERY VEGGIE COWICHAN"     |
-| 3 | O2G2U38KN4J D | 120TC |              | DISCO    | "PUNKY PUFF PRINCESS"      |
-| 3 | O2T4BL8XF5J D | 121E  |              | IDOL     | "FANCY FOLKTALE"           |
-| 3 | O2GQWT87GIJ D | 122TC |              | BALL     | "ROSY FANTASY"             |
-| 3 | O2T38F8KN5J D | 123E  |              | FASHION  | "SUNNY SWEATER"            |
-| 3 | O2TR098KRJJ D | 124E  |              | DISCO    | "WARMY SUNNY MINI-DRESS"   |
-| 3 | O2TRQT8XXRJ D | 125E  |              | STREET   | "BRISK PEDAL PUSHERS"      |
-| 3 | O2TRVG8HDSJ D | 126TC |              | BALL     | "LILAC DREAM"              |
-| 3 | O2T4R78XTJJ D | 127E  |              | SEASIDE  | "SEABREEZE BLUE"           |
-| 3 | O2TR098XXVJ D | 128E  |              | DISCO    | "COOL PIRATES"             |
-| 3 | O2TR-N87GJJ D | 129E  |              | BALL     | "RAVISHING RAINBOW"        |
-| 3 | O2G3SH8XTKJ D | 130TC |              |          | "HANNARY KOMACHI"          |
-| 3 | O2G37687ZNJ D | 131TC |              | IDOL     | "CHOKIE MINT"              |
-| 3 | O2GQBJ8KRKJ D | 132E  |              | STREET   | "COVERALL PAINTER"         |
-| 3 | O2GR1L8XXQJ D | 133E  |              | STREET   | "TRADDY TOMBOY"            |
-| 3 | O2T3GA8KN3J D | 134E  |              | FASHION  | "FANCY DUFFLE"             |
-| 3 | O2T3GA8XXLJ D | 135E  |              | FASHION  | "LIGHT BLUE DOWN"          |
-| 3 | O2GR1L8KR J D | 136E  |              | STREET   | "MUSTARD GIRL"             |
-| 3 | O2G3CY8XTIJ D | 137E  |              | IDOL     | "PASTEL QUARTET"           |
-| 3 | O2GQWT8HD9J D | 138TC |              | BALL     | "PLUSH LADY"               |
-| 3 | O2T46V8XTXJ D | 139TC |              | SEASIDE  | "CANDY APPLE"              |
-| 3 | O2T38F8XXSJ D | 140TC |              | DISCO    | "ARM WARMER CREAMY COMBO"  |
-| 3 | O2GQR48KRYJ D | 141TC |              | STREET   | "BOYISH ACADEMY"           |
-| 3 | O2T4JC87ZTJ D | 142TC |              | SEASIDE  | "FLORAL OASIS"             |
-| 3 | O2TRVG87GWJ D | 143TC |              | BALL     | "TIERED BELL"              |
-| 3 | O2GQBJ8XXBJ D | 144TC |              | STREET   | "STYLISH WESTERN"          |
-| 3 | O2G29S8KN9J D | 145TC |              | DISCO    | "MUSCAT BOLERO"            |
-| 3 | O2T46V87ZRJ D | 146E  |              | IDOL     | "RIBBON WRAP DRESS"        |
-| 3 | O2G2UJ8XXQJ D | 147TC |              | FASHION  | "TRENDY TRENCH"            |
-| 5 | O2TRV58KRDJ D | 148E  |              | STREET   | "SUMMER OF PEACE"          |
-| 5 | O2GQ6A8XXFJ D | 149E  |              | DISCO    | "RISING BOLD"              |
-| 5 | O2G3KP8XTCJ D | 150E  |              | IDOL     | "PRETTY PLEATS ANGEL"      |
-| 5 | O2GQWF8KREJ D | 151E  |              | FASHION  | "CASUAL CELEB"             |
-| 5 | O2TSN.8XTDJ D | 152E  |              | SEASIDE  | "GYPSY DANCER"             |
-| 5 | O2GDN08HDBJ D | 153E  |              | BALL     | "TIERED TULIP"             |
-| 5 | O2TR-U8XXOJ D | 154E  |              | FASHION  | "PREPPIE MARINE"           |
-| 5 | O2TECG8KR J D | 155E  |              | DISCO    | "AMBER TROMPEL’DEIL"       |
-| 5 | O2GDN087GKJ D | 156E  |              | BALL     | "FLOWERY PRINTEMPS"        |
-| 5 | O2TECG8XXQJ D | 157E  |              | DISCO    | "SPRING ATTENDANT"         |
-| 5 | O2TSN.87ZGJ D | 158E  |              | IDOL     | "PARTY CINCH"              |
-| 5 |             D | 159E  |              |          |                            |
-| 5 |             D | 160E  |              |          |                            |
-| 5 | O2T4JC8XTZJ D | 161E  |              | IDOL     | "SHERRY SWEET HEART"       |
-| 5 | O2G3KP87ZFJ D | 162E  |              | IDOL     | "LEMON-LIME TWIST"         |
-| 5 | O2TEPY87GXJ D | 163E  |              | BALL     | "GEMMED AND BEJEWELED"     |
-| 5 | O2TR508KRZJ D | 164E  |              | STREET   | "LEAF CAMOUELAGE"          |
-| 5 | O2GDDT8XXLJ D | 165E  |              | DISCO    | "DIPPED EMERALD"           |
-| 5 | O2GQWF8XXHJ D | 166E  |              | FASHION  | "SNAPPY GIRL"              |
-| 5 | O2GR1L87ZHJ D | 167E  |              | SEASIDE  | "SUNLIT YELLOW"            |
-| 5 | O2GDDT8KN3J D | 168E  |              | DISCO    | "SUGARY SWEET"             |
-| 5 | O2TR-U8KR-J D | 169E  |              | FASHION  | "FLOWER POWER DENIM"       |
-| 5 | O2TR508XXTJ D | 170E  |              | STREET   | "TINKER STRIPE"            |
-| 5 | O2G3768XTYJ D | 171E  |              | SEASIDE  | "SEASHORE SODA"            |
-| 5 | O2T3GA87ZOJ D | 172E  |              | SEASIDE  | "CITRUS POCHE"             |
-| 5 | O2TESN8KN4J D | 173E  | RED, PURPLE  |          | "SOPHISTICATED WRAP"       |  
-| 5 | O2GQ6A8KRCJ D | 174E  |              | STREET   | "BONNY BAMBINA"            |
-| 5 | O2GDN98KR.J D | 175E  |              | FASHION  | "ROMANTIC FRILL"           |
-| 5 | O2GR1L8XTEJ D | 176E  |              | SEASIDE  | "LITTLE ENCHANTRESS"       |
-| 5 | O2TR-N8HDAJ D | 177E  |              | BALL     | "LACY CASCADE"             |
-| 5 | O2TRV58XXGJ D | 178E  |              | FASHION  | "CLOVER CHARM"             |
-| 5 | O2GQR48XXNJ D | 179E  |              | STREET   | "VIVID SPICE"              |
-| 5 | O2G2U387ZPJ D | 180E  | PURPLE, RED  |          | "CHARMER ONDINE"           |   
-| 5 | O2GDN98XXPJ D | 181E  |              | DISCO    | "POPPING NIGHT"            |
-|   |               |       |              |          |                            |
-| 3 | ONHCU5APFEA D | ????  |              | BALL     | "DUMMY" ????               |
-| 3 | ONHXC2AKH2A D | 006E  |              | STREET   | "PITA T GIRL"              |
-| 3 | ONHS1IAU5.A D | 034E  |              | STREET   | "PICHITTO KUROT"           |
+|???| Codes       |???| No.   | Color        | Type     | Card Name                  |
+|---|------------ |---| ----- | ------------ | -------- | -------------------------- |
+| 1 | OH00ND34G1J | D | 001E  |              | IDOL     | "LOVELY STRAWBERRY"        |
+| 1 | OH005A3599J | D | 002E  |              | STREET   | "COMFY CASUAL"             |
+| 1 | OHACEI33PPJ | D | 003E  |              | BALL     | "JASMIN DRESS"             |
+| 1 | OHAC-B34GFJ | D | 004E  |              | SEASIDE  | "FLOWY PASTEL"             |
+| 1 | OH00GW354FJ | D | 005E  |              | STREET   | "PASTEL FRUITY"            |
+| 1 | OHACEI354SJ | D | 006E  |              | STREET   | "FITTED TEE GIRL"          |
+| 1 | OH00ND35A0J | D | 007E  |              | DISCO    | "METALLIC DOWN"            |
+| 1 | OHAC-B34OKJ | D | 008E  |              | SEASIDE  | "FAIRY LEAF"               |
+| 1 | OHAP3E33PBJ | D | 009E  |              | BALL     | "SPARKLY PEARL DRESS"      |
+| 1 | OHRUSMI.C6J | D | 010E  |              | STREET   | "GLITTER SHORT"            |
+| 1 | OH0AL933UUJ | D | 011TC |              | BALL     | "FLORAL HOOP DRESS"        |
+| 1 | OH00GW34OJJ | D | 012TC |              | IDOL     | "MOON CHINA"               |
+| 1 | OHACWP35A%J | D | 013E  |              | STREET   | "COOL RAINBOW"             |
+| 1 | OH00UO359NJ | D | 014E  |              | FASHION  | "COMFY SWEATER"            |
+| 1 | OH00UO354TJ | D | 015E  |              | FASHION  | "CANDY CASUAL"             |
+| 1 | OHACQ-354UJ | D | 016E  |              | STREET   | "BAGGY OVERALL"            |
+| 1 | OH005A3543J | D | 017TC |              | STREET   | "SPORTY MIX JUMPER"        |
+| 1 | OH00UO34GSJ | D | 018E  |              | SEASIDE  | "PINEAPPLE SUMMER"         |
+| 1 | OHAP3E354EJ | D | 019E  |              | FASHION  | "CASUAL POP"               |
+| 1 | OH00GW35AKJ | D | 020TC |              | STREET   | "MILITARY GIRL"            |
+| 1 | OH00GW34GEJ | D | 021E  |              | IDOL     | "FANCY MARGARET"           |
+| 1 | OHAP3E33UHJ | D | 022E  |              | BALL     | "CUTIE PINK DRESS"         |
+| 1 | OHAC-B354GJ | D | 023TC |              | STREET   | "ACTIVE PARKA"             |
+| 1 | OH00ND33P8J | D | 024TC |              | BALL     | "SKY BLUE DRESS"           |
+| 1 | OH00ND34B7J | D | 025E  |              | IDOL     | "SPARKLY PURPLE"           |
+| 1 | OH00UO34OXJ | D | 026E  |              | SEASIDE  | "TROPICAL SNOW"            |
+| 1 | OHAC-B359AJ | D | 027E  |              | FASHION  | "REFRESHING TERED CAMI"    |
+| 1 | OHACWP34O0J | D | 028E  |              | IDOL     | "LACY FRILL"               |
+| 1 | OH00ND33U2J | D | 029E  |              | BALL     | "HONEY DRAPE"              |
+| 1 | OH00ND3545J | D | 030E  |              | STREET   | "BABY BAGGY STYLE"         |
+| 1 | OH0NAE354HJ | D | 031E  |              | FASHION  | "VITAMIN GIRL"             |
+| 1 | OH005A34O%J | D | 032E  |              | SEASIDE  | "DOLPHIN QUEEN"            |
+| 1 | OHACWP34G5J | D | 033ETC| PINK, YELLOW | SEASIDE  | "KIMONO FLOWER"            |
+| 1 | OHAP3E359DJ | D | 034E  |              | STREET   | "BABY BLACK TEE"           |
+| 1 | OHAP3E34GIJ | D | 035E  |              | IDOL     | "SWEET APRON"              |
+| 1 | OHACQ-359OJ | D | 036E  |              | FASHION  | "PASTEL LOGO ONE-PIECE"    |
+| 1 | OH0AL934GVJ | D | 037TC |              |          | "FLOWY ANGEL"              |
+| 1 | OHPFHSQW9JJ | D | 038E  |              | BALL     | "CITRUS FRILL DRESS"       |
+| 1 | OHC-VYQWT3J | D | 039E  |              | SEASIDE  | "SWEET AQUAMARINE"         |
+| 1 | OHCKKMQV36J | D | 040E  | BLUE, GREEN  | BALL     | "ROYAL TORQUOISE"          |
+| 1 | OHP5TZQIABJ | D | 041E  |              | SEASIDE  | "SUNLIGHT HONEY"           |
+| 1 | OHP5TZQWTGJ | D | 042TC |              | DISCO    | "COOL MINT TIE"            |
+| 1 | OHC-23QIAOJ | D | 043E  |              | IDOL     | "CHARMING APRIOOT"         |
+| 2 | OHPYA5QIADJ | D | 044E  |              | IDOL     | "FLORAL CARNATION"         |
+| 2 | OH2XIYI-Q8J | D | 045E  |              | IDOL     | "AMERICAN STAR GIRL"       |
+| 2 | OH2X.FI.HXJ | D | 046E  |              | STREET   | "FUNKY CASUAL"             |
+| 2 | OH2XR3I.HVJ | D | 047E  |              | DISCO    | "RETRO PLEATS"             |
+| 2 |             | D | 048E  |              |          |                            |
+| 2 | OHRJLQIE1HJ | D | 049E  |              | BALL     | "SUNFLOWER DRESS"          |
+| 2 | OHRU4 I.HIJ | D | 050E  |              | DISCO    | "GO GO MINI ONE-PIECE"     |
+| 2 | OH2XIYI.C7J | D | 051E  |              | STREET   | "SPORT CASUAL CARGO"       |
+| 2 | OHRU4 I.CCJ | D | 052E  |              | FASHION  | "LADY ARGYLE"              |
+| 2 | OHRUSMI.C6J | D | 053E  |              | DISCO    | "GLITTER SHORT"            |
+| 2 | OH2XXSI.HJJ | D | 054E  | PINK, BLUE   | STREET   | "FEMININE B-GIRL"          |
+| 2 | OHR95LI-INJ | D | 055E  |              | SEASIDE  | "CLEAR LIME GIRL"          |
+| 2 | OH2XR3I.CPJ | D | 056E  | YELLOW, BLUE | DISCO    | "FLOWY MINI CELEB" (VER 5) |
+| 2 | OHRU4 I-QBJ | D | 057E  |              | SEASIDE  | "SHINY CARIBBEAN"          |
+| 2 | OHRU0NI-I9J | D | 058E  |              | IDOL     | "CANARY ONE-PIECE"         |
+| 2 | OH27ANIE68J | D | 059E  |              | BALL     | "VICTORIAN ROSETTA"        |
+| 2 | OHR95LI.2OJ | D | 060E  |              | FASHION  | "POP'N SWEETS"             |
+| 2 | OHRU0NI.C8J | D | 061E  |              | DISCO    | "SAPPRHIRE BELL BOTTOMS"   |
+| 2 | OHR95LI-QSJ | D | 062E  |              | IDOL     | "CUTIE RED"                |
+| 2 | OH2HFLI-QPJ | D | 063TC |              |          | "VIVID ONE-PIECE"          |
+| 2 | O24VWDA0VKJ | D | 064E  |              | IDOL     | "FANTASY DOLL"             |
+| 2 | O2SU72AN5NJ | D | 065E  |              | DISCO    | "SPICY SAFARI"             |
+| 2 | O24VWDANSZJ | D | 066E  |              | FASHION  | "STRAWBERRY CHEER GIRL"    |
+| 2 | O24V6RAN5RJ | D | 067E  |              | FASHION  | "CAMOUFLAGE CATS"          |
+| 2 | O2479QAAIOJ | D | 068E  |              | BALL     | "GARLAND LACE"             |
+| 2 | O2SHE8ANSMJ | D | 069E  |              | STREET   | "BOYISH LAYERED"           |
+| 2 | O24ITEAN4 J | D | 070E  |              | FASHION  | "TING D TRAD"              |
+| 2 | O2SUXQA0ARJ | D | 071E  |              | SEASIDE  | "SNOW FANTASY"             |
+| 2 | O24IDWANSLJ | D | 072E  |              | DISCO    | "ORANGE HIP HUNG"          |
+| 2 | O2SHURANSUJ | D | 073E  | PINK, BLACK  | DISCO    | "PINKY ROCK'N ROLL"        |
+| 2 | O2SUSIA0VWJ | D | 074E  |              | IDOL     | "MILKY PINK BOLERO"        |
+| 2 | O2SHE8AN4.J | D | 075E  |              |          | "OFF-SHOULDER ARMY"        |
+| 2 | O24V6RA0A9J | D | 076ETC|              | IDOL     | "SYMPHONY FRILL"           |
+| 2 | O24V6RANSXJ | D | 077E  |              | FASHION  | "VANILLA SWEATER"          |
+| 2 | O24V6RA0VIJ | D | 078E  |              | SEASIDE  | "PRINCESS ALABESQUE"       |
+| 2 | O2S6-.AABDJ | D | 079E  |              | BALL     | "ROMANTIC EMPIRE DRESS"    |
+| 2 | O24VWDA0ABJ | D | 080E  |              | SEASIDE  | "SUNSET BEACH"             |
+|   |             | D | 081E  |              |          |                            |
+| 3 | O2G3SH8KRZJ | D | 082E  |              | STREET   | "CHEERFUL AND CASUAL COMBO"|
+| 3 | O2T4BL8XXBJ | D | 083E  |              | STREET   | "CROPPED HOODY"            |
+| 3 | O2G3AN8XF4J | D | 084E  |              | IDOL     | "HAPPINESS Q HEART"        |
+| 3 | O2TEH68XT.J | D | 085E  |              | SEASIDE  | "SUNFLOWER ISLAND"         |
+| 3 | O2GQ3F87G J | D | 086E  |              | BALL     | "RIBBON COMPLEND"          |
+| 3 | O2G3768KRDJ | D | 087E  |              | SEASIDE  | "HALTER STRIPE"            |
+| 3 | O2TRFU8HDLJ | D | 088E  |              | BALL     | "RAFFINE AMETHYST"         |
+| 3 | O2T4JC8XXHJ | D | 089E  |              | STREET   | "DANCING STAR"             |
+| 3 | O2T46V8XXFJ | D | 090E  |              | DISCO    | "ONE-SHOULDER GEM"         |
+| 3 | O2G3CY87ZUJ | D | 091E  |              | IDOL     | "CLASSIC VIOLET"           |
+| 3 | O2T4R78KRYJ | D | 092E  |              | FASHION  | "SUNNY SMILE"              |
+| 3 | O2TSN.8KR.J | D | 093E  |              | STREET   | "AZUREGGAE GIRL"           |
+| 3 | O2TEXP87ZLJ | D | 094E  |              | SEASIDE  | "SEABREEZE BLUE"           |
+| 3 | O2TRFU87H3J | D | 095E  |              | BALL     | "GOLDEN FRESSIA"           |
+| 3 | O2T4R78XXNJ | D | 096E  |              | DISCO    | "HIP HUGGER HEAVEN"        |
+| 3 | O2TEXP8XF3J | D | 097E  |              | IDOL     | "CANDY PERFECTION"         |
+| 3 | O2T38T87ZOJ | D | 098TC |              |          | "SOPHISTICATED CHIC"       |
+| 3 | O2T4BL87ZSJ | D | 099E  |              | SEASIDE  | "TROPICAL PARADISE"        |
+| 3 | O2T46V8KRCJ | D | 100E  |              | STREET   | "PLEASANT POLO"            |
+| 3 | O2G3KP8KR-J | D | 101E  |              | STREET   | "TAILORED TOMBOY"          |
+| 3 | O2T4JC8KREJ | D | 102E  |              | DISCO    | "TWILIGHT PARILLON"        |
+| 3 | O2GQG987H4J | D | 103E  |              | BALL     | "GORGEOUS GARNET"          |
+| 3 | O2G3CY8KRXJ | D | 104E  |              | FASHION  | "LACE A LA MODE"           |
+| 3 | O2GDIG87ZQJ | D | 105E  |              | IDOL     | "RUFFLED LACE"             |
+| 3 | O2G3KP8XXOJ | D | 106E  |              | STREET   | "PEPPER HOT PANTS"         |
+| 3 | O2G3768XXGJ | D | 107E  |              | FASHION  | "RICAMO VEST"              |
+| 3 | O2GD5U8XT-J | D | 108E  |              | IDOL     | "LYRICAL SCARLET"          |
+| 3 | O2GQG98HDMJ | D | 109E  |              | BALL     | "GLOVER GARDEN"            |
+| 3 | O2G3AN87ZMJ | D | 110E  |              | SEASIDE  | "LAYERS OF LIGHT"          |
+| 3 | O2G3CY8XXRJ | D | 111E  |              | DISCO    | "60’ TWISTER"              |
+| 3 | O2TSN.8XXPJ | D | 112E  |              | STREET   | "EAGLE FLIGHT PANTS"       |
+| 3 | O2G3SH8XXTJ | D | 113E  |              | DISCO    | "PRETTY PANELS"            |
+| 3 | O2GDIG8XT J | D | 114E  |              | SEASIDE  | "BLOOMING BREEZE"          |
+| 3 | O2TRQT8KRXJ | D | 115TC |              | STREET   | "GINGER SNAP"              |
+| 3 | O2G29S8XXUJ | D | 116TC |              | STREET   | "PEPPY-GO GIRL"            |
+| 3 | O2T4R787ZAJ | D | 117TC |              | IDOL     | "FOREST FAIRY"             |
+| 3 | O2G3SH87ZBJ | D | 118E  |              | SEASIDE  | "FAR SHORES COMBO"         |
+| 3 | O2G2U38XXMJ | D | 119TC |              | FASHION  | "VERY VEGGIE COWICHAN"     |
+| 3 | O2G2U38KN4J | D | 120TC |              | DISCO    | "PUNKY PUFF PRINCESS"      |
+| 3 | O2T4BL8XF5J | D | 121E  |              | IDOL     | "FANCY FOLKTALE"           |
+| 3 | O2GQWT87GIJ | D | 122TC |              | BALL     | "ROSY FANTASY"             |
+| 3 | O2T38F8KN5J | D | 123E  |              | FASHION  | "SUNNY SWEATER"            |
+| 3 | O2TR098KRJJ | D | 124E  |              | DISCO    | "WARMY SUNNY MINI-DRESS"   |
+| 3 | O2TRQT8XXRJ | D | 125E  |              | STREET   | "BRISK PEDAL PUSHERS"      |
+| 3 | O2TRVG8HDSJ | D | 126TC |              | BALL     | "LILAC DREAM"              |
+| 3 | O2T4R78XTJJ | D | 127E  |              | SEASIDE  | "SEABREEZE BLUE"           |
+| 3 | O2TR098XXVJ | D | 128E  |              | DISCO    | "COOL PIRATES"             |
+| 3 | O2TR-N87GJJ | D | 129E  |              | BALL     | "RAVISHING RAINBOW"        |
+| 3 | O2G3SH8XTKJ | D | 130TC |              |          | "HANNARY KOMACHI"          |
+| 3 | O2G37687ZNJ | D | 131TC |              | IDOL     | "CHOKIE MINT"              |
+| 3 | O2GQBJ8KRKJ | D | 132E  |              | STREET   | "COVERALL PAINTER"         |
+| 3 | O2GR1L8XXQJ | D | 133E  |              | STREET   | "TRADDY TOMBOY"            |
+| 3 | O2T3GA8KN3J | D | 134E  |              | FASHION  | "FANCY DUFFLE"             |
+| 3 | O2T3GA8XXLJ | D | 135E  |              | FASHION  | "LIGHT BLUE DOWN"          |
+| 3 | O2GR1L8KR J | D | 136E  |              | STREET   | "MUSTARD GIRL"             |
+| 3 | O2G3CY8XTIJ | D | 137E  |              | IDOL     | "PASTEL QUARTET"           |
+| 3 | O2GQWT8HD9J | D | 138TC |              | BALL     | "PLUSH LADY"               |
+| 3 | O2T46V8XTXJ | D | 139TC |              | SEASIDE  | "CANDY APPLE"              |
+| 3 | O2T38F8XXSJ | D | 140TC |              | DISCO    | "ARM WARMER CREAMY COMBO"  |
+| 3 | O2GQR48KRYJ | D | 141TC |              | STREET   | "BOYISH ACADEMY"           |
+| 3 | O2T4JC87ZTJ | D | 142TC |              | SEASIDE  | "FLORAL OASIS"             |
+| 3 | O2TRVG87GWJ | D | 143TC |              | BALL     | "TIERED BELL"              |
+| 3 | O2GQBJ8XXBJ | D | 144TC |              | STREET   | "STYLISH WESTERN"          |
+| 3 | O2G29S8KN9J | D | 145TC |              | DISCO    | "MUSCAT BOLERO"            |
+| 3 | O2T46V87ZRJ | D | 146E  |              | IDOL     | "RIBBON WRAP DRESS"        |
+| 3 | O2G2UJ8XXQJ | D | 147TC |              | FASHION  | "TRENDY TRENCH"            |
+| 5 | O2TRV58KRDJ | D | 148E  |              | STREET   | "SUMMER OF PEACE"          |
+| 5 | O2GQ6A8XXFJ | D | 149E  |              | DISCO    | "RISING BOLD"              |
+| 5 | O2G3KP8XTCJ | D | 150E  |              | IDOL     | "PRETTY PLEATS ANGEL"      |
+| 5 | O2GQWF8KREJ | D | 151E  |              | FASHION  | "CASUAL CELEB"             |
+| 5 | O2TSN.8XTDJ | D | 152E  |              | SEASIDE  | "GYPSY DANCER"             |
+| 5 | O2GDN08HDBJ | D | 153E  |              | BALL     | "TIERED TULIP"             |
+| 5 | O2TR-U8XXOJ | D | 154E  |              | FASHION  | "PREPPIE MARINE"           |
+| 5 | O2TECG8KR J | D | 155E  |              | DISCO    | "AMBER TROMPEL’DEIL"       |
+| 5 | O2GDN087GKJ | D | 156E  |              | BALL     | "FLOWERY PRINTEMPS"        |
+| 5 | O2TECG8XXQJ | D | 157E  |              | DISCO    | "SPRING ATTENDANT"         |
+| 5 | O2TSN.87ZGJ | D | 158E  |              | IDOL     | "PARTY CINCH"              |
+| 5 |             | D | 159E  |              |          |                            |
+| 5 |             | D | 160E  |              |          |                            |
+| 5 | O2T4JC8XTZJ | D | 161E  |              | IDOL     | "SHERRY SWEET HEART"       |
+| 5 | O2G3KP87ZFJ | D | 162E  |              | IDOL     | "LEMON-LIME TWIST"         |
+| 5 | O2TEPY87GXJ | D | 163E  |              | BALL     | "GEMMED AND BEJEWELED"     |
+| 5 | O2TR508KRZJ | D | 164E  |              | STREET   | "LEAF CAMOUELAGE"          |
+| 5 | O2GDDT8XXLJ | D | 165E  |              | DISCO    | "DIPPED EMERALD"           |
+| 5 | O2GQWF8XXHJ | D | 166E  |              | FASHION  | "SNAPPY GIRL"              |
+| 5 | O2GR1L87ZHJ | D | 167E  |              | SEASIDE  | "SUNLIT YELLOW"            |
+| 5 | O2GDDT8KN3J | D | 168E  |              | DISCO    | "SUGARY SWEET"             |
+| 5 | O2TR-U8KR-J | D | 169E  |              | FASHION  | "FLOWER POWER DENIM"       |
+| 5 | O2TR508XXTJ | D | 170E  |              | STREET   | "TINKER STRIPE"            |
+| 5 | O2G3768XTYJ | D | 171E  |              | SEASIDE  | "SEASHORE SODA"            |
+| 5 | O2T3GA87ZOJ | D | 172E  |              | SEASIDE  | "CITRUS POCHE"             |
+| 5 | O2TESN8KN4J | D | 173E  | RED, PURPLE  |          | "SOPHISTICATED WRAP"       |
+| 5 | O2GQ6A8KRCJ | D | 174E  |              | STREET   | "BONNY BAMBINA"            |
+| 5 | O2GDN98KR.J | D | 175E  |              | FASHION  | "ROMANTIC FRILL"           |
+| 5 | O2GR1L8XTEJ | D | 176E  |              | SEASIDE  | "LITTLE ENCHANTRESS"       |
+| 5 | O2TR-N8HDAJ | D | 177E  |              | BALL     | "LACY CASCADE"             |
+| 5 | O2TRV58XXGJ | D | 178E  |              | FASHION  | "CLOVER CHARM"             |
+| 5 | O2GQR48XXNJ | D | 179E  |              | STREET   | "VIVID SPICE"              |
+| 5 | O2G2U387ZPJ | D | 180E  | PURPLE, RED  |          | "CHARMER ONDINE"           |
+| 5 | O2GDN98XXPJ | D | 181E  |              | DISCO    | "POPPING NIGHT"            |
+|   |             |   |       |              |          |                            |
+| 3 | ONHCU5APFEA | D | ????  |              | BALL     | "DUMMY" ????               |
+| 3 | ONHXC2AKH2A | D | 006E  |              | STREET   | "PITA T GIRL"              |
+| 3 | ONHS1IAU5.A | D | 034E  |              | STREET   | "PICHITTO KUROT"           |
 
 #### Footwear
-|???| Codes         | No.       | Color        | Type     | Card Name                             |
-|---|-------------- | --------- | ------------ | -------- | ------------------------------------- |
-| 1 | OH0ALH9JFBJ F |001ETC     |              |          | "PLATFORM PINK SNEAKERS"              |
-| 1 | OHACEE9JSIJ F |002E	|              |          | "COLORFUL HEART SOCKS"                |
-| 1 | OH00UW9JSJJ F |003E	|              |          | "PASTEL BLUE HIGH CUT"                |
-| 1 | OH0ALH9JNGJ F |004E	|              |          | "LACE-UP BOOTS"                       |
-| 1 | OH00P99ITOJ F |005E	|              |          | "LACY HEELS"                          |
-| 1 | OHACWI9JNQJ F |006E	| YELLOW       |          | "NADESHIKO THONGS SANDALS"	(VER 2)   |
-| 1 | OH0ALH9ITAJ F |007E	| BLUE         |          | "JEWELRY HEELS"                       |
-| 1 | OHACAA9JF8J F |008E	|              |          | "FLOWER SCRUNCHY BOOTS"               |
-| 1 | OH00P99JSVJ F |009E	|              |          | "STARRY DIVA BOOTS"                   |
-| 1 | OHACAA9JN3J F |010E	| YELLOW       |          | "POM-POM LEG WARMERS"                 |
-| 1 | OH00P99JNUJ F |011E	|              |          | "CROSS RIBBON"                        |
-| 1 | OH00GD9JS1J F |012E	|              |          | "PASTEL LOVE SNEAKERS"                |
-| 1 | OHACAA9IT9J F |013E	|              |          | "PINK RIBBON HEELS"                   |
-| 1 | OHAC-P9JS0J F |014E	|              |          | "BOUNCY BASKETBALL HEELS"             |
-| 1 | OH00GD9JN7J F |015E	| GREEN        |          | "GREEN FAIRY HEELS"                   |
-| 1 | OHACWI9JSWJ F |016E	|              |          | "RAINBOW SNEAKERS"                    |
-| 1 | OHACEE9JNCJ F |017E	|              |          | "FRILLED SOCKS LOW HEELS"             |
-| 1 | OH005O9JSXJ F |018E	|              |          | "WHITE PLATFORM SANDALS"              |
-| 1 | OHP5G4UTX4J F |019E	| YELLOW       |          | "FRESH LEMON SNEAKERS"                |
-| 1 | OHP5NFUT5XJ F |020E	|              |          | "TRI-RIBBON BOOTS"                    |
-| 1 | OHCKQMUT50J F |021E	| BLUE         |          | "COBALT CUFFED HEELS"                 |
-| 1 | OHC-I3UTXTJ F |022E	| BLUE         |          | "COOL STARS SOCKS"                    |
-| 2 | OH27W YU8IJ F |023E	|              |          | "ARABIAN MULES"                       |
-| 2 | OHRU0LYUUNJ F |024E	|              |          | "ZEBRA HIGH HEELS"                    |
-| 2 | OH27DMYUU5J F |025E	|              |          | "SHINY PLANET"                        |
-| 2 | OHRUJ YUUBJ F |026ETC     |              |          | "ZIPPER PUMPS"                        |
-| 2 | OH2X83YUUOJ F |027E	| GREEN        |          | "OLIVE LOAFERS"                       |
-| 2 | OHR96RYU8VJ F |028E	|              |          | "PASSION PINK BOOTS"                  |
-| 2 | OHRJLJYS29J F |029E	|              |          | "RIBBON LACE-UP HEELS"                |
-| 2 | O24V68PKM4J F |030E	|              |          | "PANSY COLOR BOOTS"                   |
-| 2 | O24INDPKMBJ F |031E	|              |          | "MILKY ARGYLE"                        |
-| 2 | O24V68PK3MJ F |032E	|              |          | "DEEP MINT BOOTS"                     |
-| 2 | O247HIPXSKJ F |033E	| RED          |          | "QUEEN ROSE"   (VER 5)                |
-| 2 | O2SU7IPKM5J F |034E	|              |          | "HERO SNEAKER BOOTS"                  |
-| 2 | O2SH1QPKLXJ F |035E	|              |          | "ELEGANT CASUAL LOAFERS"              |
-| 2 | O2SUSXPK3LJ F |036E	|              |          | "VIVID CORK SOLES"                    |
-| 3 | O2G3AGUTBQJ F |037E	|              |          | "VELCRO ZIG-ZAG SNEAKERS"             |
-| 3 | O2T41PUTB3J F |038E	|              |          | "SQUASH HEEL SNEAKERS"                |
-| 3 | O2T467UTBAJ F |039E	|              |          | "SKIP RIBBON PUMPS"                   |
-| 3 | O2GDD0U4JKJ F |040E	|              |          | "MANGOSTEEN SANDALS"                  |
-| 3 | O2TRQ0U4NHJ F |041ETC     |              |          | "JEWELED VIOLETTA"                    |
-| 3 | O2G32NUTB4J F |042E	|              |          | "STARDUST HIGH HEELS"                 |
-| 3 | O2G3K6UTBNJ F |043E	|              |          | "WESTERN HEART"                       |
-| 3 | O2GDNTU4JIJ F |044E	|              |          | "DEKO RIBBON HEELS"                   |
-| 3 | O2T4RLUTB5J F |045E	|              |          | "ORANGE PEEL MUILES"                  |
-| 3 | O2TE4YU4JXJ F |046E	|              |          | "RESORT CRISSCROSS"                   |
-| 3 | O2GQRAU4NOJ F |047E	|              |          | "PEACH LACE HEELS"                    |
-| 3 | O2GD55U4JYJ F |048E	|              |          | "SWEET MACAROON"                      |
-| 3 | O2T4JVUTBRJ F |049E	|              |          | "PISTACHIC BOOTS"                     |
-| 3 | O2GDIUU4JCJ F |050E	|              |          | "CHAMOMILE SANDALS"                   |
-| 3 | O2TEHHU4JZJ F |051E	|              |          | "ELEGANT MESH HEELS"                  |
-| 3 | O2G37HUTBBJ F |052E	|              |          | "ORANGE MESH SNEAKERS"                |
-| 3 | O2G3SYUTB9J F |053E	|              |          | "RAINBOW HEELS"                       |
-| 3 | O2TECNU4JJJ F |054E	|              |          | "LITTLE HEART HEELS"                  |
-| 3 | O2TRF5U4NPJ F |055E	|              |          | "PEARLY HEELS"                        |
-| 3 | O2TEX6UTBPJ F |056E	|              |          | "SUNFLOWER SOCKS"                     |
-| 3 | O2TSOCUTBTJ F |057TC      |              |          | "MID-CALF CAMOUFLAGE"                 |
-| 3 | O2TEX6U4JDJ F |058E	|              |          | "RUSSET LEAF BOOTS"                   |
-| 3 | O2T4RLU4JS  F |059E	|              |          | "SOUTH ISLAND"                        |
-| 3 | O2TR0FUTBQJ F |060E	|              |          | "FLORAL SCRUNCH"                      |
-| 3 | O2G2HEUTBHJ F |061E	|              |          | "CHIPPER RUBBER SOLED"                |
-| 3 | O2G3SYU4JUJ F |062TC      |              |          | "TURQUOISE PASSION"                   |
-| 3 | O2GQGFU4R J F |063E	|              |          | "HEART BLANCHE"                       |
-| 3 | O2T41PU4J-J F |064E	|              |          | "TWINKLE WARMERS"                     |
-| 3 | O2GQRJUTB5J F |065E	|              |          | "HEART ZIP-UP"                        |
-| 3 | O2T3WAUTBOJ F |067TC      |              |          | "HAPPY STRIPED SOCKS"                 |
-| 3 | O2GQBSUTB3J F |068TC      |              |          | "CLASSY SLINGBACK"                    |
-| 3 | O2G32NU4JMJ F |069E	|              |          | "SILKY SNOW"                          |
-| 3 | O2GQW9U4N4J F |070E	|              |          | "WHITE BLOSSOM HEELS"                 |
-| 3 | O2T467U4JVJ F |071E	|              |          | "MARINE PROMENADE"                    |
-| 3 | O2T3G4UTBGJ F |072TC      |              |          | "SPICY STEP"                          |
-| 3 | O2TRQ9UTB4J F |073TC      |              |          | "LUMINOUS STUD BOOTS"                 |
-| 3 | O2G3AGU4JEJ F |074TC      |              |          | "SWEET LOLLYPOP"                      |
-| 3 | O2TRVUU4N3J F |075ETC     |              |          | "BEAUTIFUL CELEB"                     |
-| 3 | O2G293UTBPJ F |076TC      |              |          | "CHARMING BOOT WARMERS"               |
-| 5 | O2TR5TUTB9J F |077E	|              |          | "NIFTY ZIPPERS"                       |
-| 5 | O2T3G4U4JYJ F |078E	|              |          | "FLORAL OCEAN"                        |
-| 5 | O2GDNTU4N9J F |079E	|              |          | "TIARA ANGEL"                         |
-| 5 | O2TR-5UTBNJ F |080E	| BLUE         |          | "POPPEN CLOGS"                        |
-| 5 | O2G3K6U4JJJ F |081E	|              |          | "POCK RIBBON"                         |
-| 5 | O2GQ64UTBAJ F |082E	|              |          | "STUDS CLUSTER"                       |
-| 5 | O2TE7NUTBPJ F |083E	|              |          | "COOL STREAK"                         |
-| 5 | O2TRI0UTBBJ F |084E	|              |          | "STRAPPY SNEAKERS"                    |
-| 5 | O2TESGUTBHJ F |085E	|              |          | "GRACE AMETHYST"                      |
-| 5 | O2GDNFUTBTJ F |086E	|              |          | "PATCHWORK HIGHTOPS"                  |
-| 5 | O2GDD9UTBGJ F |087E	|              |          | "MERRY STEP"                          |
-| 5 | O2G37HU4JWJ F |088E	|              |          | "TULIP HEELS"                         |
-| 5 | O2TECNU4NAJ F |089E	|              |          | "LILLY LIME"                          |
-| 5 | O2GRPPU4JXJ F |090E	|              |          | "TERRA-COTTA SUN"                     |
-| 5 | O2GQJAUTBRJ F |091E	|              |          | "MARCHING TOY AHOY"                   |
-| 5 | O2TR-GU4N5J F |092E	|              |          | "CELESTIAL CHIFFON"                   |
-| 5 | O2TECUUTBFJ F |093E	|              |          | "CHERRY PINK PUNCH"                   |
-| 5 | O2TSOCU4JKJ F |094E	|              |          | "RINGING HEART"                       |
-| 5 | O2T4JVU4JIJ F |095E	|              |          | "CANDY AMOR"                          |
-| 5 | O2GDTTUTBOJ F |096E	|              |          | "BRAIDED STRAP HEELS"                 |
-|   |               |           |              |          |                                       |
-| 3 | ONHH72ATIHA F |009E	|              |          | "HOSHITSUKI J.Lo FU BOOTS"            |
-| 3 | ON2BVVATI-A F |012E	|              |          | "PASTEL LOVE SNEAKER"                 |
+|???| Codes       |???| No.       | Color        | Type     | Card Name                             |
+|---|------------ |---| --------- | ------------ | -------- | ------------------------------------- |
+| 1 | OH0ALH9JFBJ | F |001ETC     |              |          | "PLATFORM PINK SNEAKERS"              |
+| 1 | OHACEE9JSIJ | F |002E       |              |          | "COLORFUL HEART SOCKS"                |
+| 1 | OH00UW9JSJJ | F |003E       |              |          | "PASTEL BLUE HIGH CUT"                |
+| 1 | OH0ALH9JNGJ | F |004E       |              |          | "LACE-UP BOOTS"                       |
+| 1 | OH00P99ITOJ | F |005E       |              |          | "LACY HEELS"                          |
+| 1 | OHACWI9JNQJ | F |006E       | YELLOW       |          | "NADESHIKO THONGS SANDALS" (VER 2)    |
+| 1 | OH0ALH9ITAJ | F |007E       | BLUE         |          | "JEWELRY HEELS"                       |
+| 1 | OHACAA9JF8J | F |008E       |              |          | "FLOWER SCRUNCHY BOOTS"               |
+| 1 | OH00P99JSVJ | F |009E       |              |          | "STARRY DIVA BOOTS"                   |
+| 1 | OHACAA9JN3J | F |010E       | YELLOW       |          | "POM-POM LEG WARMERS"                 |
+| 1 | OH00P99JNUJ | F |011E       |              |          | "CROSS RIBBON"                        |
+| 1 | OH00GD9JS1J | F |012E       |              |          | "PASTEL LOVE SNEAKERS"                |
+| 1 | OHACAA9IT9J | F |013E       |              |          | "PINK RIBBON HEELS"                   |
+| 1 | OHAC-P9JS0J | F |014E       |              |          | "BOUNCY BASKETBALL HEELS"             |
+| 1 | OH00GD9JN7J | F |015E       | GREEN        |          | "GREEN FAIRY HEELS"                   |
+| 1 | OHACWI9JSWJ | F |016E       |              |          | "RAINBOW SNEAKERS"                    |
+| 1 | OHACEE9JNCJ | F |017E       |              |          | "FRILLED SOCKS LOW HEELS"             |
+| 1 | OH005O9JSXJ | F |018E       |              |          | "WHITE PLATFORM SANDALS"              |
+| 1 | OHP5G4UTX4J | F |019E       | YELLOW       |          | "FRESH LEMON SNEAKERS"                |
+| 1 | OHP5NFUT5XJ | F |020E       |              |          | "TRI-RIBBON BOOTS"                    |
+| 1 | OHCKQMUT50J | F |021E       | BLUE         |          | "COBALT CUFFED HEELS"                 |
+| 1 | OHC-I3UTXTJ | F |022E       | BLUE         |          | "COOL STARS SOCKS"                    |
+| 2 | OH27W YU8IJ | F |023E       |              |          | "ARABIAN MULES"                       |
+| 2 | OHRU0LYUUNJ | F |024E       |              |          | "ZEBRA HIGH HEELS"                    |
+| 2 | OH27DMYUU5J | F |025E       |              |          | "SHINY PLANET"                        |
+| 2 | OHRUJ YUUBJ | F |026ETC     |              |          | "ZIPPER PUMPS"                        |
+| 2 | OH2X83YUUOJ | F |027E       | GREEN        |          | "OLIVE LOAFERS"                       |
+| 2 | OHR96RYU8VJ | F |028E       |              |          | "PASSION PINK BOOTS"                  |
+| 2 | OHRJLJYS29J | F |029E       |              |          | "RIBBON LACE-UP HEELS"                |
+| 2 | O24V68PKM4J | F |030E       |              |          | "PANSY COLOR BOOTS"                   |
+| 2 | O24INDPKMBJ | F |031E       |              |          | "MILKY ARGYLE"                        |
+| 2 | O24V68PK3MJ | F |032E       |              |          | "DEEP MINT BOOTS"                     |
+| 2 | O247HIPXSKJ | F |033E       | RED          |          | "QUEEN ROSE"   (VER 5)                |
+| 2 | O2SU7IPKM5J | F |034E       |              |          | "HERO SNEAKER BOOTS"                  |
+| 2 | O2SH1QPKLXJ | F |035E       |              |          | "ELEGANT CASUAL LOAFERS"              |
+| 2 | O2SUSXPK3LJ | F |036E       |              |          | "VIVID CORK SOLES"                    |
+| 3 | O2G3AGUTBQJ | F |037E       |              |          | "VELCRO ZIG-ZAG SNEAKERS"             |
+| 3 | O2T41PUTB3J | F |038E       |              |          | "SQUASH HEEL SNEAKERS"                |
+| 3 | O2T467UTBAJ | F |039E       |              |          | "SKIP RIBBON PUMPS"                   |
+| 3 | O2GDD0U4JKJ | F |040E       |              |          | "MANGOSTEEN SANDALS"                  |
+| 3 | O2TRQ0U4NHJ | F |041ETC     |              |          | "JEWELED VIOLETTA"                    |
+| 3 | O2G32NUTB4J | F |042E       |              |          | "STARDUST HIGH HEELS"                 |
+| 3 | O2G3K6UTBNJ | F |043E       |              |          | "WESTERN HEART"                       |
+| 3 | O2GDNTU4JIJ | F |044E       |              |          | "DEKO RIBBON HEELS"                   |
+| 3 | O2T4RLUTB5J | F |045E       |              |          | "ORANGE PEEL MUILES"                  |
+| 3 | O2TE4YU4JXJ | F |046E       |              |          | "RESORT CRISSCROSS"                   |
+| 3 | O2GQRAU4NOJ | F |047E       |              |          | "PEACH LACE HEELS"                    |
+| 3 | O2GD55U4JYJ | F |048E       |              |          | "SWEET MACAROON"                      |
+| 3 | O2T4JVUTBRJ | F |049E       |              |          | "PISTACHIC BOOTS"                     |
+| 3 | O2GDIUU4JCJ | F |050E       |              |          | "CHAMOMILE SANDALS"                   |
+| 3 | O2TEHHU4JZJ | F |051E       |              |          | "ELEGANT MESH HEELS"                  |
+| 3 | O2G37HUTBBJ | F |052E       |              |          | "ORANGE MESH SNEAKERS"                |
+| 3 | O2G3SYUTB9J | F |053E       |              |          | "RAINBOW HEELS"                       |
+| 3 | O2TECNU4JJJ | F |054E       |              |          | "LITTLE HEART HEELS"                  |
+| 3 | O2TRF5U4NPJ | F |055E       |              |          | "PEARLY HEELS"                        |
+| 3 | O2TEX6UTBPJ | F |056E       |              |          | "SUNFLOWER SOCKS"                     |
+| 3 | O2TSOCUTBTJ | F |057TC      |              |          | "MID-CALF CAMOUFLAGE"                 |
+| 3 | O2TEX6U4JDJ | F |058E       |              |          | "RUSSET LEAF BOOTS"                   |
+| 3 | O2T4RLU4JS  | F |059E       |              |          | "SOUTH ISLAND"                        |
+| 3 | O2TR0FUTBQJ | F |060E       |              |          | "FLORAL SCRUNCH"                      |
+| 3 | O2G2HEUTBHJ | F |061E       |              |          | "CHIPPER RUBBER SOLED"                |
+| 3 | O2G3SYU4JUJ | F |062TC      |              |          | "TURQUOISE PASSION"                   |
+| 3 | O2GQGFU4R J | F |063E       |              |          | "HEART BLANCHE"                       |
+| 3 | O2T41PU4J-J | F |064E       |              |          | "TWINKLE WARMERS"                     |
+| 3 | O2GQRJUTB5J | F |065E       |              |          | "HEART ZIP-UP"                        |
+| 3 | O2T3WAUTBOJ | F |067TC      |              |          | "HAPPY STRIPED SOCKS"                 |
+| 3 | O2GQBSUTB3J | F |068TC      |              |          | "CLASSY SLINGBACK"                    |
+| 3 | O2G32NU4JMJ | F |069E       |              |          | "SILKY SNOW"                          |
+| 3 | O2GQW9U4N4J | F |070E       |              |          | "WHITE BLOSSOM HEELS"                 |
+| 3 | O2T467U4JVJ | F |071E       |              |          | "MARINE PROMENADE"                    |
+| 3 | O2T3G4UTBGJ | F |072TC      |              |          | "SPICY STEP"                          |
+| 3 | O2TRQ9UTB4J | F |073TC      |              |          | "LUMINOUS STUD BOOTS"                 |
+| 3 | O2G3AGU4JEJ | F |074TC      |              |          | "SWEET LOLLYPOP"                      |
+| 3 | O2TRVUU4N3J | F |075ETC     |              |          | "BEAUTIFUL CELEB"                     |
+| 3 | O2G293UTBPJ | F |076TC      |              |          | "CHARMING BOOT WARMERS"               |
+| 5 | O2TR5TUTB9J | F |077E       |              |          | "NIFTY ZIPPERS"                       |
+| 5 | O2T3G4U4JYJ | F |078E       |              |          | "FLORAL OCEAN"                        |
+| 5 | O2GDNTU4N9J | F |079E       |              |          | "TIARA ANGEL"                         |
+| 5 | O2TR-5UTBNJ | F |080E       | BLUE         |          | "POPPEN CLOGS"                        |
+| 5 | O2G3K6U4JJJ | F |081E       |              |          | "POCK RIBBON"                         |
+| 5 | O2GQ64UTBAJ | F |082E       |              |          | "STUDS CLUSTER"                       |
+| 5 | O2TE7NUTBPJ | F |083E       |              |          | "COOL STREAK"                         |
+| 5 | O2TRI0UTBBJ | F |084E       |              |          | "STRAPPY SNEAKERS"                    |
+| 5 | O2TESGUTBHJ | F |085E       |              |          | "GRACE AMETHYST"                      |
+| 5 | O2GDNFUTBTJ | F |086E       |              |          | "PATCHWORK HIGHTOPS"                  |
+| 5 | O2GDD9UTBGJ | F |087E       |              |          | "MERRY STEP"                          |
+| 5 | O2G37HU4JWJ | F |088E       |              |          | "TULIP HEELS"                         |
+| 5 | O2TECNU4NAJ | F |089E       |              |          | "LILLY LIME"                          |
+| 5 | O2GRPPU4JXJ | F |090E       |              |          | "TERRA-COTTA SUN"                     |
+| 5 | O2GQJAUTBRJ | F |091E       |              |          | "MARCHING TOY AHOY"                   |
+| 5 | O2TR-GU4N5J | F |092E       |              |          | "CELESTIAL CHIFFON"                   |
+| 5 | O2TECUUTBFJ | F |093E       |              |          | "CHERRY PINK PUNCH"                   |
+| 5 | O2TSOCU4JKJ | F |094E       |              |          | "RINGING HEART"                       |
+| 5 | O2T4JVU4JIJ | F |095E       |              |          | "CANDY AMOR"                          |
+| 5 | O2GDTTUTBOJ | F |096E       |              |          | "BRAIDED STRAP HEELS"                 |
+|   |             |   |           |              |          |                                       |
+| 3 | ONHH72ATIHA | F |009E       |              |          | "HOSHITSUKI J.Lo FU BOOTS"            |
+| 3 | ON2BVVATI-A | F |012E       |              |          | "PASTEL LOVE SNEAKER"                 |
 
 #### Hair and Style
-|???| Codes         | No.       | Color                       | Card Name                  |
-|---|-------------- | --------- | --------------------------- | -------------------------- |
-| 1 | OHA2XH556KJ H | 001E	| YELLOW (Love), BLUE (Berry) | "SILKY LONG"               |
-| 1 | OHARYA5561J H | 002E	|                             | "FRESH PONY HAIR"          |
-| 1 | OH0ALT556KJ H | 003E	| YELLOW (Love), BLUE (Berry) | "PRINESS HAIR"             |
-| 1 | OH00N 4DDCJ H | 004E	|                             | "HOT BANDANA"              |
-| 1 | OH00GY5563J H | 005E	|                             | "MARINE HAIR"              |
-| 1 | OHACEY4DQ1J H | 006E	|                             | "COOL KNIT"                |
-| 1 | OH0N045561J H | 007E	|                             | "GIRLIE CURLY LONG"        |
-| 1 | OH0NSG5564J H | 008E	|                             | "LONG PULL-UP"             |
-| 1 | OHACEZ556GJ H | 009E	| YELLOW (Love), BLUE (Berry) | "TOMBOY HAIR"              |
-| 1 | OH00US556HJ H | 010E	| YELLOW (Love), BLUE (Berry) | "PIGTAIL FRENCH BRAIDS"    |
-| 1 | OHACA45564J H | 011E	|                             | "PRETTY LONG ROLLS"        |
-| 1 | OHAC-G5562J H | 012E	|                             | "POMPADOUR SHORT"          |
-| 1 | OHA22C556WJ H | 013E	| YELLOW (Love), BLUE (Berry) | "PIXIE CUT"                |
-| 1 | OH0N4Z556JJ H | 014E	|                             | "SPICY SIDE TAIL"          |
-| 1 | OHACA34DDPJ H | 015E	|                             | "AMERICAN CASUAL CAP"      |
-| 1 | OH0PQ9556WJ H | 016E	| YELLOW (Love), BLUE (Berry) | "FLOWY SEMI LONG"          |
-| 1 | OHACWU556UJ H | 017E	|                             | "MAGIC CURL"               |
-| 1 | OH00P3556TJ H | 018E	|                             | "PETITE BUNS"              |
-| 1 | OHC-2BMI1DJ H | 019E	|                             | "JAPANESE STYLE BANGS"     |
-| 1 | OHCKKWMQVEJ H | 020E	| GREEN                       | "RIBBON CASKET"            |
-| 1 | OHP5T.MI16J H | 021E	|                             | "COOL BEAUTY HAIR"         |
-| 2 | OH2X.QK.4AJ H | 022E	|                             | "FUNKY AFRO"               |
-| 2 | OH2XXJK.F%J H | 023E	| YELLOW (Love), BLUE (Berry) | "GORGEOUS VENUS HAIR"      |
-| 2 | OHR9PGKXS7J H | 024E	| PURPLE                      | "CHAIN STRAW"              |
-| 2 | OHRU0OK.FWJ H | 025E	| YELLOW (Love), BLUE (Berry) | "Mx2 SIDE CURLS"           |
-| 2 | O24VJPNNH-J H | 026E	|                             | "ORIENTAL CHIGNON"         |
-| 2 | O2SHU6NNHJJ H | 027E	|                             | "FLIP ONE-LENGTH HAIR"     |
-| 2 | O247X00LFEJ H | 028E	|                             | "PIXIE KINT CAP"           |
-| 2 | O2SH9PNNHXJ H | 029E	| YELLOW (Love), BLUE (Berry) | "FRENCH BRAID WAVY HAIR"   |
-| 2 | O2SHEHNNHWJ H | 030E	| YELLOW (Love), BLUE (Berry) | "ROMANTIC WAVE HEAR"       |
-| 3 | O2HO4.0YCYJ H | 031E	|                             | "POM-POM BUNS"             |
-| 3 | O2HXK90LGVJ H | 032E	|                             | "BEJEWELED COWGIRL HAT"    |
-| 3 | O2HXA30YCDJ H | 033TC	|                             | "LAYERED LOOK"             |
-| 3 | O27A5L0YCZJ H | 034E	|                             | "BRAIDED BAND"             |
-| 3 | O27ADP0YDRJ H | 035E	|                             | "BRAIDED PINEAPPLE"        |
-| 3 | O2U-KA0YCCJ H | 036E	|                             | "FLUFFY GRACE"             |
-| 3 | O2HAJU0LGUJ H | 037E	|                             | "MELON SUN VISOR"          |
-| 3 | O2H-WH0YD5J H | 038E	|                             | "SHARP BOB"                |
-| 3 | O2HOCC0YDBJ H | 039E	|                             | "PONY FUNK"                |
-| 4 | O2H0OG0LGWJ H | 040TC	|                             | "CAMOU-DREADS"             |
-| 4 | O2HAUT0YD3J H |041E/TC    | YELLOW (Love), BLUE (Berry) | "CUTIE CURL"               |
-| 4 | O2HNV70YD4J H | 042E	|                             | "TWIST LIFT"               |
-| 4 | O2HA1F0YCEJ H | 043E	|                             | "FUN FLIP"                 |
-| 4 | O2HKPT0LGIJ H | 044E	|                             | "MUSHROOM BERET"           |
-| 4 | O2HXFJ0YC J H | 045TC	|                             | "CLIP ON HAIR"             |
-| 4 | O2H03N0LGJJ H | 046TC	|                             | "COMFY KNIT"               |
-| 4 | O2HAE90YC.J H | 047E	|                             | "MYSTERIOUS MADEMOSELLE"   |
-| 4 | O2HK400LGKJ H | 048E	|                             | "CLASSY HUNTING CAP"       |
-| 4 | O2HX2S0YC-J H | 049TC	|                             | "ASYMMETRICAL BRAIDED BOB" |
-| 5 | O2H03U0YDRJ H | 050E	| YELLOW (Love), BLUE (Berry) | "PUPPY TAIL PONY"          |
-| 5 | O2HX-A0YD9J H | 051E	|                             | "BRAID BOUND BUN"          |
-| 5 | O2H08H0LGHJ H | 052E	|                             | "SPRING GIRLIE"            |
-| 5 | O2HKPF0YDBJ H | 053E	|                             | "SWEEPING STYLE"           |
-| 5 | O2HKU50LGGJ H | 054E	|                             | "RIBBONED KNIT CAP"        |
-| 5 | O2HK490YCYJ H | 055E	|                             | "MANNISH BLUE"             |
-| 5 | O2H0TY0LGFJ H | 056E	|                             | "SCARF FUN"                |
-| 5 | O2H0O50YDAJ H | 057E	|                             | "MOON MEMORIES"            |
-| 5 | O2HXV40YD4J H | 058E	|                             | "SIMPLY SOPHISTICATED"     |
-| 5 | O2HA900YD5J H | 059E	|                             | "SHINY POMPADOUR"          |
-|   |               |       |                             |                            |
-| 3 | ONHSUEAC-2A   |LH-003E|                             | "CLEOPATRA HAIR"           |
-| 3 | ONHCUUA4WXA   |LH-005E|                             | "LADYLIKE HAT"             |
+|???| Codes       |???| No.     | Color                       | Card Name                  |
+|---|------------ |---| ------- | --------------------------- | -------------------------- |
+| 1 | OHA2XH556KJ | H | 001E	| YELLOW (Love), BLUE (Berry) | "SILKY LONG"               |
+| 1 | OHARYA5561J | H | 002E	|                             | "FRESH PONY HAIR"          |
+| 1 | OH0ALT556KJ | H | 003E	| YELLOW (Love), BLUE (Berry) | "PRINESS HAIR"             |
+| 1 | OH00N 4DDCJ | H | 004E	|                             | "HOT BANDANA"              |
+| 1 | OH00GY5563J | H | 005E	|                             | "MARINE HAIR"              |
+| 1 | OHACEY4DQ1J | H | 006E	|                             | "COOL KNIT"                |
+| 1 | OH0N045561J | H | 007E	|                             | "GIRLIE CURLY LONG"        |
+| 1 | OH0NSG5564J | H | 008E	|                             | "LONG PULL-UP"             |
+| 1 | OHACEZ556GJ | H | 009E	| YELLOW (Love), BLUE (Berry) | "TOMBOY HAIR"              |
+| 1 | OH00US556HJ | H | 010E	| YELLOW (Love), BLUE (Berry) | "PIGTAIL FRENCH BRAIDS"    |
+| 1 | OHACA45564J | H | 011E	|                             | "PRETTY LONG ROLLS"        |
+| 1 | OHAC-G5562J | H | 012E	|                             | "POMPADOUR SHORT"          |
+| 1 | OHA22C556WJ | H | 013E	| YELLOW (Love), BLUE (Berry) | "PIXIE CUT"                |
+| 1 | OH0N4Z556JJ | H | 014E	|                             | "SPICY SIDE TAIL"          |
+| 1 | OHACA34DDPJ | H | 015E	|                             | "AMERICAN CASUAL CAP"      |
+| 1 | OH0PQ9556WJ | H | 016E	| YELLOW (Love), BLUE (Berry) | "FLOWY SEMI LONG"          |
+| 1 | OHACWU556UJ | H | 017E	|                             | "MAGIC CURL"               |
+| 1 | OH00P3556TJ | H | 018E	|                             | "PETITE BUNS"              |
+| 1 | OHC-2BMI1DJ | H | 019E	|                             | "JAPANESE STYLE BANGS"     |
+| 1 | OHCKKWMQVEJ | H | 020E	| GREEN                       | "RIBBON CASKET"            |
+| 1 | OHP5T.MI16J | H | 021E	|                             | "COOL BEAUTY HAIR"         |
+| 2 | OH2X.QK.4AJ | H | 022E	|                             | "FUNKY AFRO"               |
+| 2 | OH2XXJK.F%J | H | 023E	| YELLOW (Love), BLUE (Berry) | "GORGEOUS VENUS HAIR"      |
+| 2 | OHR9PGKXS7J | H | 024E	| PURPLE                      | "CHAIN STRAW"              |
+| 2 | OHRU0OK.FWJ | H | 025E	| YELLOW (Love), BLUE (Berry) | "Mx2 SIDE CURLS"           |
+| 2 | O24VJPNNH-J | H | 026E	|                             | "ORIENTAL CHIGNON"         |
+| 2 | O2SHU6NNHJJ | H | 027E	|                             | "FLIP ONE-LENGTH HAIR"     |
+| 2 | O247X00LFEJ | H | 028E	|                             | "PIXIE KINT CAP"           |
+| 2 | O2SH9PNNHXJ | H | 029E	| YELLOW (Love), BLUE (Berry) | "FRENCH BRAID WAVY HAIR"   |
+| 2 | O2SHEHNNHWJ | H | 030E	| YELLOW (Love), BLUE (Berry) | "ROMANTIC WAVE HEAR"       |
+| 3 | O2HO4.0YCYJ | H | 031E	|                             | "POM-POM BUNS"             |
+| 3 | O2HXK90LGVJ | H | 032E	|                             | "BEJEWELED COWGIRL HAT"    |
+| 3 | O2HXA30YCDJ | H | 033TC	|                             | "LAYERED LOOK"             |
+| 3 | O27A5L0YCZJ | H | 034E	|                             | "BRAIDED BAND"             |
+| 3 | O27ADP0YDRJ | H | 035E	|                             | "BRAIDED PINEAPPLE"        |
+| 3 | O2U-KA0YCCJ | H | 036E	|                             | "FLUFFY GRACE"             |
+| 3 | O2HAJU0LGUJ | H | 037E	|                             | "MELON SUN VISOR"          |
+| 3 | O2H-WH0YD5J | H | 038E	|                             | "SHARP BOB"                |
+| 3 | O2HOCC0YDBJ | H | 039E	|                             | "PONY FUNK"                |
+| 4 | O2H0OG0LGWJ | H | 040TC	|                             | "CAMOU-DREADS"             |
+| 4 | O2HAUT0YD3J | H |041E/TC  | YELLOW (Love), BLUE (Berry) | "CUTIE CURL"               |
+| 4 | O2HNV70YD4J | H | 042E	|                             | "TWIST LIFT"               |
+| 4 | O2HA1F0YCEJ | H | 043E	|                             | "FUN FLIP"                 |
+| 4 | O2HKPT0LGIJ | H | 044E	|                             | "MUSHROOM BERET"           |
+| 4 | O2HXFJ0YC J | H | 045TC	|                             | "CLIP ON HAIR"             |
+| 4 | O2H03N0LGJJ | H | 046TC	|                             | "COMFY KNIT"               |
+| 4 | O2HAE90YC.J | H | 047E	|                             | "MYSTERIOUS MADEMOSELLE"   |
+| 4 | O2HK400LGKJ | H | 048E	|                             | "CLASSY HUNTING CAP"       |
+| 4 | O2HX2S0YC-J | H | 049TC	|                             | "ASYMMETRICAL BRAIDED BOB" |
+| 5 | O2H03U0YDRJ | H | 050E	| YELLOW (Love), BLUE (Berry) | "PUPPY TAIL PONY"          |
+| 5 | O2HX-A0YD9J | H | 051E	|                             | "BRAID BOUND BUN"          |
+| 5 | O2H08H0LGHJ | H | 052E	|                             | "SPRING GIRLIE"            |
+| 5 | O2HKPF0YDBJ | H | 053E	|                             | "SWEEPING STYLE"           |
+| 5 | O2HKU50LGGJ | H | 054E	|                             | "RIBBONED KNIT CAP"        |
+| 5 | O2HK490YCYJ | H | 055E	|                             | "MANNISH BLUE"             |
+| 5 | O2H0TY0LGFJ | H | 056E	|                             | "SCARF FUN"                |
+| 5 | O2H0O50YDAJ | H | 057E	|                             | "MOON MEMORIES"            |
+| 5 | O2HXV40YD4J | H | 058E	|                             | "SIMPLY SOPHISTICATED"     |
+| 5 | O2HA900YD5J | H | 059E	|                             | "SHINY POMPADOUR"          |
+|   |             |   |         |                             |                            |
+| 3 | ONHSUEAC-2A |   |LH-003E  |                             | "CLEOPATRA HAIR"           |
+| 3 | ONHCUUA4WXA |   |LH-005E  |                             | "LADYLIKE HAT"             |
 
 #### Special
-| Codes           | No.   | Color                         | Card Name                                |
-| --------------- | ----- | ----------------------------- | ---------------------------------------- |
-| OH00PNBLV9J S   | 001E  | YELLOW, BLACK                 | "MIRACLE FOUNDATION"                     |
-| OHACATBLVAJ S   | 002E  | YELLOW, PURPLE, GREEN, BLACK  | "MAGICAL HAIR COLOR"                     |
-| OH0ALLBLVNJ S   | 003E  |                               | "MIRACLE HAIR COLOR"                     |
-| OHAC43BL2UJ S   | 004E  |                               | "MAGICAL TIME PLUS"                      |
-| OHCKKDW587J S   | 005E  |                               | "MIRACLE FOOT COLOR"                     |
-| OH27AVCH09J S   | 006E  |                               | "MIRACLE EYEWEAR"                        |
-| O2SUA42WKYJ S   | 007E  |                               | "MAGICAL EYEWEAR"                        |
-| O2TRFQ7NO-J S   | 008E  |                               | "GORGEOUS EYEWEAR"                       |
-| O2GD5Q7NPRJ S   | 009TC |                               | "MAGICAL HAT COLOR"                      |
-| O2H-RG2JQQJ S   | 010E  |                               | "MIRACLE TAMBOURINE"                     |
-|                 |       |                               |                                          |
-| OUSG.TRI2WD S   | 001   | YELLOW, WHITE, BLACK          | "MIRACLE FOUNDATION" (001-05A)           |
-| OUSHK1RI2ID S   | 003   | RED, YELLOW, PINK, WHITE      | "MIRACLE HAIR COLOR" (003-06A)           |
-| OUMQNQE0JXD S   | 004   | PINK                          | "MAGICAL TIME PLUS" (004-07HS, 004-06N)  |
+| Codes       |???| No.   | Color                         | Card Name                                |
+| ----------- |---| ----- | ----------------------------- | ---------------------------------------- |
+| OH00PNBLV9J | S | 001E  | YELLOW, BLACK                 | "MIRACLE FOUNDATION"                     |
+| OHACATBLVAJ | S | 002E  | YELLOW, PURPLE, GREEN, BLACK  | "MAGICAL HAIR COLOR"                     |
+| OH0ALLBLVNJ | S | 003E  |                               | "MIRACLE HAIR COLOR"                     |
+| OHAC43BL2UJ | S | 004E  |                               | "MAGICAL TIME PLUS"                      |
+| OHCKKDW587J | S | 005E  |                               | "MIRACLE FOOT COLOR"                     |
+| OH27AVCH09J | S | 006E  |                               | "MIRACLE EYEWEAR"                        |
+| O2SUA42WKYJ | S | 007E  |                               | "MAGICAL EYEWEAR"                        |
+| O2TRFQ7NO-J | S | 008E  |                               | "GORGEOUS EYEWEAR"                       |
+| O2GD5Q7NPRJ | S | 009TC |                               | "MAGICAL HAT COLOR"                      |
+| O2H-RG2JQQJ | S | 010E  |                               | "MIRACLE TAMBOURINE"                     |
+|             |   |       |                               |                                          |
+| OUSG.TRI2WD | S | 001   | YELLOW, WHITE, BLACK          | "MIRACLE FOUNDATION" (001-05A)           |
+| OUSHK1RI2ID | S | 003   | RED, YELLOW, PINK, WHITE      | "MIRACLE HAIR COLOR" (003-06A)           |
+| OUMQNQE0JXD | S | 004   | PINK                          | "MAGICAL TIME PLUS" (004-07HS, 004-06N)  |
 
 
 
