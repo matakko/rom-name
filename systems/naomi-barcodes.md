@@ -384,7 +384,7 @@
 |???| Codes         | No.   | Color        | Type     | Card Name                  |
 |---|-------------- | ----- | ------------ | -------- | -------------------------- |
 | 1 | OH00ND34G1J D | 001E  |              | IDOL     | "LOVELY STRAWBERRY"        |
-| 1 | OH005A3599J D | 002E  |              | STREET	  | "COMFY CASUAL"             |
+| 1 | OH005A3599J D | 002E  |              | STREET   | "COMFY CASUAL"             |
 | 1 | OHACEI33PPJ D | 003E  |              | BALL     | "JASMIN DRESS"             |
 | 1 | OHAC-B34GFJ D | 004E  |              | SEASIDE  | "FLOWY PASTEL"             |
 | 1 | OH00GW354FJ D | 005E  |              | STREET   | "PASTEL FRUITY"            |
@@ -394,19 +394,19 @@
 | 1 | OHAP3E33PBJ D | 009E  |              | BALL     | "SPARKLY PEARL DRESS"      |
 | 1 | OHRUSMI.C6J D | 010E  |              | STREET   | "GLITTER SHORT"            |
 | 1 | OH0AL933UUJ D | 011TC |              | BALL     | "FLORAL HOOP DRESS"        |
-| 1 | OH00GW34OJJ D | 012TC	|              | IDOL     | "MOON CHINA"               |
+| 1 | OH00GW34OJJ D | 012TC |              | IDOL     | "MOON CHINA"               |
 | 1 | OHACWP35A%J D | 013E  |              | STREET   | "COOL RAINBOW"             |
 | 1 | OH00UO359NJ D | 014E  |              | FASHION  | "COMFY SWEATER"            |
 | 1 | OH00UO354TJ D | 015E  |              | FASHION  | "CANDY CASUAL"             |
 | 1 | OHACQ-354UJ D | 016E  |              | STREET   | "BAGGY OVERALL"            |
-| 1 | OH005A3543J D | 017TC	|              | STREET   | "SPORTY MIX JUMPER"        |
+| 1 | OH005A3543J D | 017TC |              | STREET   | "SPORTY MIX JUMPER"        |
 | 1 | OH00UO34GSJ D | 018E  |              | SEASIDE  | "PINEAPPLE SUMMER"         |
 | 1 | OHAP3E354EJ D | 019E  |              | FASHION  | "CASUAL POP"               |
-| 1 | OH00GW35AKJ D | 020TC	|              | STREET   | "MILITARY GIRL"            |
+| 1 | OH00GW35AKJ D | 020TC |              | STREET   | "MILITARY GIRL"            |
 | 1 | OH00GW34GEJ D | 021E  |              | IDOL     | "FANCY MARGARET"           |
 | 1 | OHAP3E33UHJ D | 022E  |              | BALL     | "CUTIE PINK DRESS"         |
-| 1 | OHAC-B354GJ D | 023TC	|              | STREET   | "ACTIVE PARKA"             |
-| 1 | OH00ND33P8J D | 024TC	|              | BALL     | "SKY BLUE DRESS"           |
+| 1 | OHAC-B354GJ D | 023TC |              | STREET   | "ACTIVE PARKA"             |
+| 1 | OH00ND33P8J D | 024TC |              | BALL     | "SKY BLUE DRESS"           |
 | 1 | OH00ND34B7J D | 025E  |              | IDOL     | "SPARKLY PURPLE"           |
 | 1 | OH00UO34OXJ D | 026E  |              | SEASIDE  | "TROPICAL SNOW"            |
 | 1 | OHAC-B359AJ D | 027E  |              | FASHION  | "REFRESHING TERED CAMI"    |
@@ -419,12 +419,12 @@
 | 1 | OHAP3E359DJ D | 034E  |              | STREET   | "BABY BLACK TEE"           |
 | 1 | OHAP3E34GIJ D | 035E  |              | IDOL     | "SWEET APRON"              |
 | 1 | OHACQ-359OJ D | 036E  |              | FASHION  | "PASTEL LOGO ONE-PIECE"    |
-| 1 | OH0AL934GVJ D | 037TC	|              |          | "FLOWY ANGEL"              |
+| 1 | OH0AL934GVJ D | 037TC |              |          | "FLOWY ANGEL"              |
 | 1 | OHPFHSQW9JJ D | 038E  |              | BALL     | "CITRUS FRILL DRESS"       |
 | 1 | OHC-VYQWT3J D | 039E  |              | SEASIDE  | "SWEET AQUAMARINE"         |
 | 1 | OHCKKMQV36J D | 040E  | BLUE, GREEN  | BALL     | "ROYAL TORQUOISE"          |
 | 1 | OHP5TZQIABJ D | 041E  |              | SEASIDE  | "SUNLIGHT HONEY"           |
-| 1 | OHP5TZQWTGJ D | 042TC	|              | DISCO    | "COOL MINT TIE"            |
+| 1 | OHP5TZQWTGJ D | 042TC |              | DISCO    | "COOL MINT TIE"            |
 | 1 | OHC-23QIAOJ D | 043E  |              | IDOL     | "CHARMING APRIOOT"         |
 | 2 | OHPYA5QIADJ D | 044E  |              | IDOL     | "FLORAL CARNATION"         |
 | 2 | OH2XIYI-Q8J D | 045E  |              | IDOL     | "AMERICAN STAR GIRL"       |
@@ -445,7 +445,7 @@
 | 2 | OHR95LI.2OJ D | 060E  |              | FASHION  | "POP'N SWEETS"             |
 | 2 | OHRU0NI.C8J D | 061E  |              | DISCO    | "SAPPRHIRE BELL BOTTOMS"   |
 | 2 | OHR95LI-QSJ D | 062E  |              | IDOL     | "CUTIE RED"                |
-| 2 | OH2HFLI-QPJ D | 063TC	|              |          | "VIVID ONE-PIECE"          |
+| 2 | OH2HFLI-QPJ D | 063TC |              |          | "VIVID ONE-PIECE"          |
 | 2 | O24VWDA0VKJ D | 064E  |              | IDOL     | "FANTASY DOLL"             |
 | 2 | O2SU72AN5NJ D | 065E  |              | DISCO    | "SPICY SAFARI"             |
 | 2 | O24VWDANSZJ D | 066E  |              | FASHION  | "STRAWBERRY CHEER GIRL"    |
@@ -480,7 +480,7 @@
 | 3 | O2TRFU87H3J D | 095E  |              | BALL     | "GOLDEN FRESSIA"           |
 | 3 | O2T4R78XXNJ D | 096E  |              | DISCO    | "HIP HUGGER HEAVEN"        |
 | 3 | O2TEXP8XF3J D | 097E  |              | IDOL     | "CANDY PERFECTION"         |
-| 3 | O2T38T87ZOJ D | 098TC	|              |          | "SOPHISTICATED CHIC"       |
+| 3 | O2T38T87ZOJ D | 098TC |              |          | "SOPHISTICATED CHIC"       |
 | 3 | O2T4BL87ZSJ D | 099E  |              | SEASIDE  | "TROPICAL PARADISE"        |
 | 3 | O2T46V8KRCJ D | 100E  |              | STREET   | "PLEASANT POLO"            |
 | 3 | O2G3KP8KR-J D | 101E  |              | STREET   | "TAILORED TOMBOY"          |
@@ -497,14 +497,14 @@
 | 3 | O2TSN.8XXPJ D | 112E  |              | STREET   | "EAGLE FLIGHT PANTS"       |
 | 3 | O2G3SH8XXTJ D | 113E  |              | DISCO    | "PRETTY PANELS"            |
 | 3 | O2GDIG8XT J D | 114E  |              | SEASIDE  | "BLOOMING BREEZE"          |
-| 3 | O2TRQT8KRXJ D | 115TC	|              | STREET   | "GINGER SNAP"              |
-| 3 | O2G29S8XXUJ D | 116TC	|              | STREET   | "PEPPY-GO GIRL"            |
-| 3 | O2T4R787ZAJ D | 117TC	|              | IDOL     | "FOREST FAIRY"             |
+| 3 | O2TRQT8KRXJ D | 115TC |              | STREET   | "GINGER SNAP"              |
+| 3 | O2G29S8XXUJ D | 116TC |              | STREET   | "PEPPY-GO GIRL"            |
+| 3 | O2T4R787ZAJ D | 117TC |              | IDOL     | "FOREST FAIRY"             |
 | 3 | O2G3SH87ZBJ D | 118E  |              | SEASIDE  | "FAR SHORES COMBO"         |
-| 3 | O2G2U38XXMJ D | 119TC	|              | FASHION  | "VERY VEGGIE COWICHAN"     |
-| 3 | O2G2U38KN4J D | 120TC	|              | DISCO    | "PUNKY PUFF PRINCESS"      |
+| 3 | O2G2U38XXMJ D | 119TC |              | FASHION  | "VERY VEGGIE COWICHAN"     |
+| 3 | O2G2U38KN4J D | 120TC |              | DISCO    | "PUNKY PUFF PRINCESS"      |
 | 3 | O2T4BL8XF5J D | 121E  |              | IDOL     | "FANCY FOLKTALE"           |
-| 3 | O2GQWT87GIJ D | 122TC	|              | BALL     | "ROSY FANTASY"             |
+| 3 | O2GQWT87GIJ D | 122TC |              | BALL     | "ROSY FANTASY"             |
 | 3 | O2T38F8KN5J D | 123E  |              | FASHION  | "SUNNY SWEATER"            |
 | 3 | O2TR098KRJJ D | 124E  |              | DISCO    | "WARMY SUNNY MINI-DRESS"   |
 | 3 | O2TRQT8XXRJ D | 125E  |              | STREET   | "BRISK PEDAL PUSHERS"      |
@@ -512,24 +512,24 @@
 | 3 | O2T4R78XTJJ D | 127E  |              | SEASIDE  | "SEABREEZE BLUE"           |
 | 3 | O2TR098XXVJ D | 128E  |              | DISCO    | "COOL PIRATES"             |
 | 3 | O2TR-N87GJJ D | 129E  |              | BALL     | "RAVISHING RAINBOW"        |
-| 3 | O2G3SH8XTKJ D | 130TC	|              |          | "HANNARY KOMACHI"          |
-| 3 | O2G37687ZNJ D | 131TC	|              | IDOL     | "CHOKIE MINT"              |
+| 3 | O2G3SH8XTKJ D | 130TC |              |          | "HANNARY KOMACHI"          |
+| 3 | O2G37687ZNJ D | 131TC |              | IDOL     | "CHOKIE MINT"              |
 | 3 | O2GQBJ8KRKJ D | 132E  |              | STREET   | "COVERALL PAINTER"         |
 | 3 | O2GR1L8XXQJ D | 133E  |              | STREET   | "TRADDY TOMBOY"            |
 | 3 | O2T3GA8KN3J D | 134E  |              | FASHION  | "FANCY DUFFLE"             |
 | 3 | O2T3GA8XXLJ D | 135E  |              | FASHION  | "LIGHT BLUE DOWN"          |
 | 3 | O2GR1L8KR J D | 136E  |              | STREET   | "MUSTARD GIRL"             |
 | 3 | O2G3CY8XTIJ D | 137E  |              | IDOL     | "PASTEL QUARTET"           |
-| 3 | O2GQWT8HD9J D | 138TC	|              | BALL     | "PLUSH LADY"               |
-| 3 | O2T46V8XTXJ D | 139TC	|              | SEASIDE  | "CANDY APPLE"              |
-| 3 | O2T38F8XXSJ D | 140TC	|              | DISCO    | "ARM WARMER CREAMY COMBO"  |
-| 3 | O2GQR48KRYJ D | 141TC	|              | STREET   | "BOYISH ACADEMY"           |
-| 3 | O2T4JC87ZTJ D | 142TC	|              | SEASIDE  | "FLORAL OASIS"             |
-| 3 | O2TRVG87GWJ D | 143TC	|              | BALL     | "TIERED BELL"              |
-| 3 | O2GQBJ8XXBJ D | 144TC	|              | STREET   | "STYLISH WESTERN"          |
-| 3 | O2G29S8KN9J D | 145TC	|              | DISCO    | "MUSCAT BOLERO"            |
+| 3 | O2GQWT8HD9J D | 138TC |              | BALL     | "PLUSH LADY"               |
+| 3 | O2T46V8XTXJ D | 139TC |              | SEASIDE  | "CANDY APPLE"              |
+| 3 | O2T38F8XXSJ D | 140TC |              | DISCO    | "ARM WARMER CREAMY COMBO"  |
+| 3 | O2GQR48KRYJ D | 141TC |              | STREET   | "BOYISH ACADEMY"           |
+| 3 | O2T4JC87ZTJ D | 142TC |              | SEASIDE  | "FLORAL OASIS"             |
+| 3 | O2TRVG87GWJ D | 143TC |              | BALL     | "TIERED BELL"              |
+| 3 | O2GQBJ8XXBJ D | 144TC |              | STREET   | "STYLISH WESTERN"          |
+| 3 | O2G29S8KN9J D | 145TC |              | DISCO    | "MUSCAT BOLERO"            |
 | 3 | O2T46V87ZRJ D | 146E  |              | IDOL     | "RIBBON WRAP DRESS"        |
-| 3 | O2G2UJ8XXQJ D | 147TC	|              | FASHION  | "TRENDY TRENCH"            |
+| 3 | O2G2UJ8XXQJ D | 147TC |              | FASHION  | "TRENDY TRENCH"            |
 | 5 | O2TRV58KRDJ D | 148E  |              | STREET   | "SUMMER OF PEACE"          |
 | 5 | O2GQ6A8XXFJ D | 149E  |              | DISCO    | "RISING BOLD"              |
 | 5 | O2G3KP8XTCJ D | 150E  |              | IDOL     | "PRETTY PLEATS ANGEL"      |
@@ -570,9 +570,9 @@
 | 3 | ONHS1IAU5.A D | 034E  |              | STREET   | "PICHITTO KUROT"           |
 
 #### Footwear
-|???| Codes         | No.   | Color        | Type     | Card Name                             |
-|---|-------------- | ----- | ------------ | -------- | ------------------------------------- |
-| 1 | OH0ALH9JFBJ F |001ETC |              |          | "PLATFORM PINK SNEAKERS"              |
+|???| Codes         | No.       | Color        | Type     | Card Name                             |
+|---|-------------- | --------- | ------------ | -------- | ------------------------------------- |
+| 1 | OH0ALH9JFBJ F |001ETC     |              |          | "PLATFORM PINK SNEAKERS"              |
 | 1 | OHACEE9JSIJ F |002E	|              |          | "COLORFUL HEART SOCKS"                |
 | 1 | OH00UW9JSJJ F |003E	|              |          | "PASTEL BLUE HIGH CUT"                |
 | 1 | OH0ALH9JNGJ F |004E	|              |          | "LACE-UP BOOTS"                       |
@@ -597,7 +597,7 @@
 | 2 | OH27W YU8IJ F |023E	|              |          | "ARABIAN MULES"                       |
 | 2 | OHRU0LYUUNJ F |024E	|              |          | "ZEBRA HIGH HEELS"                    |
 | 2 | OH27DMYUU5J F |025E	|              |          | "SHINY PLANET"                        |
-| 2 | OHRUJ YUUBJ F |026ETC |              |          | "ZIPPER PUMPS"                        |
+| 2 | OHRUJ YUUBJ F |026ETC     |              |          | "ZIPPER PUMPS"                        |
 | 2 | OH2X83YUUOJ F |027E	| GREEN        |          | "OLIVE LOAFERS"                       |
 | 2 | OHR96RYU8VJ F |028E	|              |          | "PASSION PINK BOOTS"                  |
 | 2 | OHRJLJYS29J F |029E	|              |          | "RIBBON LACE-UP HEELS"                |
@@ -612,7 +612,7 @@
 | 3 | O2T41PUTB3J F |038E	|              |          | "SQUASH HEEL SNEAKERS"                |
 | 3 | O2T467UTBAJ F |039E	|              |          | "SKIP RIBBON PUMPS"                   |
 | 3 | O2GDD0U4JKJ F |040E	|              |          | "MANGOSTEEN SANDALS"                  |
-| 3 | O2TRQ0U4NHJ F |041ETC |              |          | "JEWELED VIOLETTA"                    |
+| 3 | O2TRQ0U4NHJ F |041ETC     |              |          | "JEWELED VIOLETTA"                    |
 | 3 | O2G32NUTB4J F |042E	|              |          | "STARDUST HIGH HEELS"                 |
 | 3 | O2G3K6UTBNJ F |043E	|              |          | "WESTERN HEART"                       |
 | 3 | O2GDNTU4JIJ F |044E	|              |          | "DEKO RIBBON HEELS"                   |
@@ -628,25 +628,25 @@
 | 3 | O2TECNU4JJJ F |054E	|              |          | "LITTLE HEART HEELS"                  |
 | 3 | O2TRF5U4NPJ F |055E	|              |          | "PEARLY HEELS"                        |
 | 3 | O2TEX6UTBPJ F |056E	|              |          | "SUNFLOWER SOCKS"                     |
-| 3 | O2TSOCUTBTJ F |057TC  |              |          | "MID-CALF CAMOUFLAGE"                 |
+| 3 | O2TSOCUTBTJ F |057TC      |              |          | "MID-CALF CAMOUFLAGE"                 |
 | 3 | O2TEX6U4JDJ F |058E	|              |          | "RUSSET LEAF BOOTS"                   |
 | 3 | O2T4RLU4JS  F |059E	|              |          | "SOUTH ISLAND"                        |
 | 3 | O2TR0FUTBQJ F |060E	|              |          | "FLORAL SCRUNCH"                      |
 | 3 | O2G2HEUTBHJ F |061E	|              |          | "CHIPPER RUBBER SOLED"                |
-| 3 | O2G3SYU4JUJ F |062TC  |              |          | "TURQUOISE PASSION"                   |
+| 3 | O2G3SYU4JUJ F |062TC      |              |          | "TURQUOISE PASSION"                   |
 | 3 | O2GQGFU4R J F |063E	|              |          | "HEART BLANCHE"                       |
 | 3 | O2T41PU4J-J F |064E	|              |          | "TWINKLE WARMERS"                     |
 | 3 | O2GQRJUTB5J F |065E	|              |          | "HEART ZIP-UP"                        |
-| 3 | O2T3WAUTBOJ F |067TC  |              |          | "HAPPY STRIPED SOCKS"                 |
-| 3 | O2GQBSUTB3J F |068TC  |              |          | "CLASSY SLINGBACK"                    |
+| 3 | O2T3WAUTBOJ F |067TC      |              |          | "HAPPY STRIPED SOCKS"                 |
+| 3 | O2GQBSUTB3J F |068TC      |              |          | "CLASSY SLINGBACK"                    |
 | 3 | O2G32NU4JMJ F |069E	|              |          | "SILKY SNOW"                          |
 | 3 | O2GQW9U4N4J F |070E	|              |          | "WHITE BLOSSOM HEELS"                 |
 | 3 | O2T467U4JVJ F |071E	|              |          | "MARINE PROMENADE"                    |
-| 3 | O2T3G4UTBGJ F |072TC  |              |          | "SPICY STEP"                          |
-| 3 | O2TRQ9UTB4J F |073TC  |              |          | "LUMINOUS STUD BOOTS"                 |
-| 3 | O2G3AGU4JEJ F |074TC  |              |          | "SWEET LOLLYPOP"                      |
-| 3 | O2TRVUU4N3J F |075ETC |              |          | "BEAUTIFUL CELEB"                     |
-| 3 | O2G293UTBPJ F |076TC  |              |          | "CHARMING BOOT WARMERS"               |
+| 3 | O2T3G4UTBGJ F |072TC      |              |          | "SPICY STEP"                          |
+| 3 | O2TRQ9UTB4J F |073TC      |              |          | "LUMINOUS STUD BOOTS"                 |
+| 3 | O2G3AGU4JEJ F |074TC      |              |          | "SWEET LOLLYPOP"                      |
+| 3 | O2TRVUU4N3J F |075ETC     |              |          | "BEAUTIFUL CELEB"                     |
+| 3 | O2G293UTBPJ F |076TC      |              |          | "CHARMING BOOT WARMERS"               |
 | 5 | O2TR5TUTB9J F |077E	|              |          | "NIFTY ZIPPERS"                       |
 | 5 | O2T3G4U4JYJ F |078E	|              |          | "FLORAL OCEAN"                        |
 | 5 | O2GDNTU4N9J F |079E	|              |          | "TIARA ANGEL"                         |
@@ -667,13 +667,13 @@
 | 5 | O2TSOCU4JKJ F |094E	|              |          | "RINGING HEART"                       |
 | 5 | O2T4JVU4JIJ F |095E	|              |          | "CANDY AMOR"                          |
 | 5 | O2GDTTUTBOJ F |096E	|              |          | "BRAIDED STRAP HEELS"                 |
-|   |	 		    |       |              |          |                                       |
+|   |               |           |              |          |                                       |
 | 3 | ONHH72ATIHA F |009E	|              |          | "HOSHITSUKI J.Lo FU BOOTS"            |
 | 3 | ON2BVVATI-A F |012E	|              |          | "PASTEL LOVE SNEAKER"                 |
 
 #### Hair and Style
-|???| Codes         | No.   | Color                       | Card Name                  |
-|---|-------------- | ----- | --------------------------- | -------------------------- |
+|???| Codes         | No.       | Color                       | Card Name                  |
+|---|-------------- | --------- | --------------------------- | -------------------------- |
 | 1 | OHA2XH556KJ H | 001E	| YELLOW (Love), BLUE (Berry) | "SILKY LONG"               |
 | 1 | OHARYA5561J H | 002E	|                             | "FRESH PONY HAIR"          |
 | 1 | OH0ALT556KJ H | 003E	| YELLOW (Love), BLUE (Berry) | "PRINESS HAIR"             |
@@ -714,7 +714,7 @@
 | 3 | O2H-WH0YD5J H | 038E	|                             | "SHARP BOB"                |
 | 3 | O2HOCC0YDBJ H | 039E	|                             | "PONY FUNK"                |
 | 4 | O2H0OG0LGWJ H | 040TC	|                             | "CAMOU-DREADS"             |
-| 4 | O2HAUT0YD3J H |041E/TC| YELLOW (Love), BLUE (Berry) | "CUTIE CURL"               |
+| 4 | O2HAUT0YD3J H |041E/TC    | YELLOW (Love), BLUE (Berry) | "CUTIE CURL"               |
 | 4 | O2HNV70YD4J H | 042E	|                             | "TWIST LIFT"               |
 | 4 | O2HA1F0YCEJ H | 043E	|                             | "FUN FLIP"                 |
 | 4 | O2HKPT0LGIJ H | 044E	|                             | "MUSHROOM BERET"           |
@@ -880,7 +880,7 @@
  | Codes         | Card Name                                |
  | ------------- | ---------------------------------------- |
  | F0X1GM8CK8    | giant africa 神馬大兜蟲 paper 140 龍捲陀螺  |
- | AY2HO1A5S1    | gideon	                                |
+ | AY2HO1A5S1    | gideon	                            |
  | LWNIZHNE5L    | maximus stag                             |
  | F953Z4M74Z    | moellenkampi                             |
  | MZ2J9SGTA0    | mandibularis                             |
@@ -1129,150 +1129,150 @@
  
 #### Waza
 G = Hit C = Pinch = P = Paper
- | Codes         | Card Name           |
- | ------------- | ------------------- | 
- | G0L01W001M000 | ???                 |
- | C0L01W002M000 | ???                 |
- | P0L01W003M000 | ???                 |
- | G0L02W004M000 | ???                 |
- | C0L02W005M000 | ???                 |
- | P0L02W006M000 | ???                 |
- | G0L03W007M000 | ???                 |
- | C0L03W008M000 | ???                 |
- | P0L03W009M000 | ???                 |
- | G0L01W000M001 | ???                 |
- | C0L03W000M002 | ???                 |
- | P0L01W000M003 | ???                 |
- | G0L02W000M004 | ???                 |
- | C0L01W000M005 | ???                 |
- | P0L02W000M006 | ???                 |
- | G0L03W010M000 | ???                 |
- | C0L03W011M000 | ???                 |
- | P0L03W012M000 | ???                 |
- | U6UVEW1LFST3V | ???                 |
- | U6UVEKDLFSTDV | ???                 |
- | VAUVE1BLFSTIV | ???                 |
- | UXKVE31LFSTIV | ???                 |
- | U0KVES1LFSTIV | ???                 |
- | U9KVEHDLFSTIV | ???                 |
- | UPKVEQDLFSTIV | ???                 |
- | UHKVVTBLFSTIV | ???                 |
- | UIKVVABLFSTIV | ???                 |
- | UCKVVEBLFSTIV | ???                 |
- | V7UVOTBLFSS3V | ???                 |
- | 3BGLOIAWWQHGR | ???                 |
- | GQ3JI7PNYPVTU | ???                 |
- | Q4N6NFO9GB5EI | ???                 |
- | TD76QIRH2ANJ8 | ???                 |
- | G82YWFJAV4PK0 | ???                 |
- | 9UTQHIGDPWZVG | ???                 |
- | I9E5LQFZ6A9GW | ???                 |
- | MQY5XT9GLHRLM | ???                 |
- | 51SPCNTCYWXEN | ???                 |
- | RQ6472BDZL39S | ???                 |
+ | Codes         | Card Name                |
+ | ------------- | ------------------------ |
+ | G0L01W001M000 | Banging Smash            |
+ | C0L01W002M000 | Bull Lock                |
+ | P0L01W003M000 | Rolling Driver           |
+ | G0L02W004M000 | Dragon Attack            |
+ | C0L02W005M000 | Rolling Clutch Hold      |
+ | P0L02W006M000 | Side Screw throw         |
+ | G0L03W007M000 | Dangun                   |
+ | C0L03W008M000 | King Fisher Hug          |
+ | P0L03W009M000 | Tornado Throw            |
+ | G0L01W000M001 | Finishing Attack Stopper |
+ | C0L03W000M002 | Tie Breaker              |
+ | P0L01W000M003 | Agitation	            |
+ | G0L02W000M004 | Special Skill Stopper    |
+ | C0L01W000M005 | Tie Bonus                |
+ | P0L02W000M006 | Counter Attack Healing   |
+ | G0L03W010M000 | Rolling Smash            |
+ | C0L03W011M000 | Running Cutter           |
+ | P0L03W012M000 | Side Lock Bomb           |
+ | U6UVEW1LFST3V | Machine Gun Punches      |
+ | U6UVEKDLFSTDV | Crashing Sleeper Hold    |
+ | VAUVE1BLFSTIV | Super Daisharin          |
+ | UXKVE31LFSTIV | Super Dangun             |
+ | U0KVES1LFSTIV | Super Rolling Smash      |
+ | U9KVEHDLFSTIV | Super King Fisher Hug    |
+ | UPKVEQDLFSTIV | Super Running Cutter     |
+ | UHKVVTBLFSTIV | Super Sidelock Bomb      |
+ | UIKVVABLFSTIV | Super Tornado Throw      |
+ | UCKVVEBLFSTIV | Super Daisharin          |
+ | V7UVOTBLFSS3V | Counter Attack Healing   |
+ | 3BGLOIAWWQHGR | Hayate                   |
+ | GQ3JI7PNYPVTU | Crossdive                |
+ | Q4N6NFO9GB5EI | Cyclone Whip             |
+ | TD76QIRH2ANJ8 | Super Hayate             |
+ | G82YWFJAV4PK0 | Defense Up               |
+ | 9UTQHIGDPWZVG | Special Skill Stopper    |
+ | I9E5LQFZ6A9GW | Crashing Sleeper Hold    |
+ | MQY5XT9GLHRLM | Power of Venus           |
+ | 51SPCNTCYWXEN | Power Drain              |
+ | RQ6472BDZL39S | Agitation                |
  
 #### Mushi (VER. 03 1ST)
- | Codes         | Card Name           |
- | ------------- | ------------------- | 
- | ACTGT20K03W01 | ???                 |
- | GRFCT20K03W02 | ???                 |
- | HLSPT20K03W03 | ???                 |
- | GRDGT18K04W01 | ???                 |
- | PWNCT18K04W02 | ???                 |
- | CCSPT18K04W03 | ???                 |
- | EZOGT16K06W04 | ???                 |
- | SAKCT16K06W05 | ???                 |
- | NEPPT16K06W06 | ???                 |
- | OOKGT14K07W04 | ???                 |
- | HRTCT12K09W08 | ???                 |
- | ATLPT14K07W06 | ???                 |
- | GHDGT12K09W07 | ???                 |
- | NOKCT12K09W11 | ???                 |
- | KABPT12K09W09 | ???                 |
- | MKWGT10K10W07 | ???                 |
- | EHACT10K10W08 | ???                 |
- | GSRPT10K10W09 | ???                 |
- | TGDPT12K09W12 | ???                 |
- | MKBGT12K09W10 | ???                 |
- | SPSCT10K10W11 | ???                 |
- | MYMCT14K07W05 | ???                 |
- | KKWGT10K10W10 | ???                 |
- | NTDPT10K10W12 | ???                 |
+ | Codes         | Card Name             |
+ | ------------- | --------------------- |
+ | ACTGT20K03W01 | Actaeon               |
+ | GRFCT20K03W02 | Giraffe               |
+ | HLSPT20K03W03 | Hercules              |
+ | GRDGT18K04W01 | Grand Stag            |
+ | PWNCT18K04W02 | Palawan               |
+ | CCSPT18K04W03 | Caucasus              |
+ | EZOGT16K06W04 | Elephant              |
+ | SAKCT16K06W05 | Parry Stag Beetle     |
+ | NEPPT16K06W06 | Neptune               |
+ | OOKGT14K07W04 | Japanese Stag Beetle  |
+ | HRTCT12K09W08 | Flat Stag Beetle      |
+ | ATLPT14K07W06 | Atlas Beetle          |
+ | GHDGT12K09W07 | Five Horned Beetle    |
+ | NOKCT12K09W11 | Saw tooth beetle      |
+ | KABPT12K09W09 | Japanese Beetle       |
+ | MKWGT10K10W07 | Humourous Stag Beetle |
+ | EHACT10K10W08 | Deer Stag Beetle      |
+ | GSRPT10K10W09 | Grant White           |
+ | TGDPT12K09W12 | Five Horned Beetle    |
+ | MKBGT12K09W10 | Rhinoceros            |
+ | SPSCT10K10W11 | Specious              |
+ | MYMCT14K07W05 | Armor Stag            |
+ | KKWGT10K10W10 | Little Stag Beetle    |
+ | NTDPT10K10W12 | Upright Horned Beetle |
  
 #### Mushi (VER. 03 2ND)
- | Codes         | Card Name           |
- | ------------- | ------------------- | 
- | Q0KLCTKBHSM5X | ???                 |
- | QNNAKT0BXLN7J | ???                 |
- | 961LDTLBHS4UT | ???                 |
- | 9NAJQTKRHS87J | ???                 |
- | EP1CCT0RXGJC7 | ???                 |
- | 9P1LDTLRXG4MM | ???                 |
- | EKAJQT8FXGDMU | ???                 |
- | Q9SKGT4FX329C | ???                 |
- | EYDJ4TPFXG7JR | ???                 |
- | QKIHFT81XGGM5 | ???                 |
- | 9IMD1TVNXSVZT | ???                 |
- | QNDJ4TP1XIJ5X | ???                 |
- | 84IHFTZNXI8OJ | ???                 |
- | 9AMD1AKNXSZVR | ???                 |
- | 9HMGRT2NXS7QE | ???                 |
- | 9X1N3TZHXS64D | ???                 |
- | 9GTL3TVHXS6OH | ???                 |
- | QKTNCT2HXS67C | ???                 |
- | 9GLHTA0NXI84F | ???                 |
- | 8W1N3AWNX3C4D | ???                 |
- | 9KEJNAKHXI6VC | ???                 |
- | QHD5QT41XI6GD | ???                 |
- | 9CDMNAWHXIGVE | ???                 |
- | QILHTA0HFL65R | ???                 |
- | QW3TGALRXL0MJ | ???                 |
- | Q0D5QA8FXG65S | ???                 |
- | E901KALBXL6MF | ???                 |
- | 9CMD1A81X394E | ???                 |
- | 9IEMQA4HXI6ZC | ???                 |
- | 94LHTA4NXIP5T | ???                 |
- | QXD5QTVNFLVZT | ???                 |
+ | Codes         | Card Name                 |
+ | ------------- | ------------------------- |
+ | Q0KLCTKBHSM5X | Actaeon Beetle            |
+ | QNNAKT0BXLN7J | Giraffe Stag Beetle       |
+ | 961LDTLBHS4UT | Hercules Beetle           |
+ | 9NAJQTKRHS87J | Grand Stag Beetle         |
+ | EP1CCT0RXGJC7 | Palawan Stag Beetle       |
+ | 9P1LDTLRXG4MM | Caucasus                  |
+ | EKAJQT8FXGDMU | Elephant Beetle           |
+ | Q9SKGT4FX329C | Parry Stag Beetle         |
+ | EYDJ4TPFXG7JR | Neptune Beetle            |
+ | QKIHFT81XGGM5 | Japanese Stag Beetle      |
+ | 9IMD1TVNXSVZT | Flat Stag Beetle          |
+ | QNDJ4TP1XIJ5X | Atlas Beetle              |
+ | 84IHFTZNXI8OJ | Yellow Five Horned Beetle |
+ | 9AMD1AKNXSZVR | Saw Tooth Stag Beetle     |
+ | 9HMGRT2NXS7QE | Japanese Beetle           |
+ | 9X1N3TZHXS64D | Humourous Beetle          |
+ | 9GTL3TVHXS6OH | Deer Stag Beetle          |
+ | QKTNCT2HXS67C | Grant White Beetle        |
+ | 9GLHTA0NXI84F | Five Horned Beetle        |
+ | 8W1N3AWNX3C4D | Rhinoceros Beetle         |
+ | 9KEJNAKHXI6VC | Specious Beetle           |
+ | QHD5QT41XI6GD | Armor Stag Beetle         |
+ | 9CDMNAWHXIGVE | Little Stag Beetle        |
+ | QILHTA0HFL65R | Upright Horned Beetle     |
+ | QW3TGALRXL0MJ | Golden Stag Beetle        |
+ | Q0D5QA8FXG65S | Yellow Stag Beetle        |
+ | E901KALBXL6MF | Tarandus Stag Beetle      |
+ | 9CMD1A81X394E | Chilean Beetle            |
+ | 9IEMQA4HXI6ZC | Rusty Beetle              |
+ | 94LHTA4NXIP5T | Flat Horned Beetle        |
+ | QXD5QTVNFLVZT | Humerous Beetle           |
  
 #### Mushi (VER. 04 1ST)
- | Codes         | Card Name           |
- | ------------- | ------------------- | 
- | NC37PH5NODUHP | ???                 |
- | 3TPR8GUIA06TO | ???                 |
- | H1I6HJG5JEIVX | ???                 |
- | R2FSMBE7D4IVH | ???                 |
- | Y77J8M2LPR16Y | ???                 |
- | 5X3JVS72IW1GM | ???                 |
- | Z9NB32VLEM0UJ | ???                 |
- | KM4YED3CQW7JZ | ???                 |
+ | Codes         | Card Name            |
+ | ------------- | -------------------- |
+ | NC37PH5NODUHP | Giant African Beetle |
+ | 3TPR8GUIA06TO | Gideon Beetle        |
+ | H1I6HJG5JEIVX | Maximus Beetle       |
+ | R2FSMBE7D4IVH | Moellenkampi Beetle  |
+ | Y77J8M2LPR16Y | Mandibularis Beetle  |
+ | 5X3JVS72IW1GM | Burmeisteri Beetle   |
+ | Z9NB32VLEM0UJ | Mushiking            |
+ | KM4YED3CQW7JZ | King Mushi Black     |
  
 #### Mushi (VER. 04 2ND parallel)
- | Codes         | Card Name           |
- | ------------- | ------------------- | 
- | LNAVM1K34E3F3 | ???                 | 
- | LSGUQGALWVQ51 | ???                 | 
- | LXLYS0I59E3XT | ???                 | 
- | LYSHMD8UBPH90 | ???                 | 
- | LB6J0AB93BLZP | ???                 | 
- | LEOKN9WQJAYY3 | ???                 | 
- | LOHD1BC1LRTQV | ???                 | 
- | L1NRUGFF04TW6 | ???                 | 
- | LIX5WZX19MS5W | ???                 | 
- | LKG5BUDKEHKFB | ???                 | 
- | L3OK42CAS7L6R | ???                 | 
- | LPRVCU1VHREGN | ???                 | 
- | LCS5W8KY313RZ | ???                 | 
- | LW3CIPZ7GG4FP | ???                 | 
- | LVNIKZVBSWWEN | ???                 | 
- | LTGG1QJX8GRHZ | ???                 | 
- | L7NLKCYSKJX91 | ???                 | 
- | LS6NZKM6PUX1U | ???                 | 
- | LDSVE14P2HEPE | ???                 | 
- | LRQTLZ96G1PYD | ???                 | 
- | LEIPJ8MH1GEXI | ???                 | 
- | L4CG9XJ9PW090 | ???                 | 
- | LQKBK17BNWPOE | ???                 | 
- | L87WLZZ0AFM9Q | ???                 | 
+ | Codes         | Card Name                           |
+ | ------------- | ----------------------------------- |
+ | LNAVM1K34E3F3 | Adder Japanese Stag Beetle          |
+ | LSGUQGALWVQ51 | Adder Atlas                         |
+ | LXLYS0I59E3XT | Adder Armor Stag                    |
+ | LYSHMD8UBPH90 | Adder Deer Stag                     |
+ | LB6J0AB93BLZP | Adder Giant African Beetle          |
+ | LEOKN9WQJAYY3 | Adder Anubis                        |
+ | LOHD1BC1LRTQV | Adder Flat Stag Beetle              |
+ | L1NRUGFF04TW6 | Adder Hardwickei Five Horned Beetle |
+ | LIX5WZX19MS5W | Adder Rhinoceros Beetle             |
+ | LKG5BUDKEHKFB | Adder Five Horned Beetle            |
+ | L3OK42CAS7L6R | Adder Saw Tooth Beetle              |
+ | LPRVCU1VHREGN | Adder Japanese Stag Beetle          |
+ | LCS5W8KY313RZ | Adder Flat Horned Beetle            |
+ | LW3CIPZ7GG4FP | Adder Maximus Beetle                |
+ | LVNIKZVBSWWEN | Adder Emperor Stag Beetle           |
+ | LTGG1QJX8GRHZ | Adder Humorous Beetle               |
+ | L7NLKCYSKJX91 | Adder Deer Stag Beetle              |
+ | LS6NZKM6PUX1U | Adder Grant White Beetle            |
+ | LDSVE14P2HEPE | Adder Speciosus Beetle              |
+ | LRQTLZ96G1PYD | Adder Little Stag Beetle            |
+ | LEIPJ8MH1GEXI | Adder Upright Horned Beetle         |
+ | L4CG9XJ9PW090 | Adder Rusty Beetle                  |
+ | LQKBK17BNWPOE | Adder Gideon Beetle                 |
+ | L87WLZZ0AFM9Q | Adder Fabricei Beetle               |
 
 
 ### MUSHIKING 2K5 1ST (Japan)
@@ -1280,42 +1280,42 @@ G = Hit C = Pinch = P = Paper
 
 #### License
  | Codes         | Card Name           |
- | ------------- | ------------------- | 
- | EDYVEGJTVUJHR | ???                 |   
- | GBA6T2SOC5Z1J | ???                 |
+ | ------------- | ------------------- |
+ | EDYVEGJTVUJHR | Edy License         |
+ | GBA6T2SOC5Z1J | Dr Nebu License     |
  
 #### Waza
  | Codes         | Card Name           |
- | ------------- | ------------------- | 
- | 5VTXWA2Y587E2 |  ???                |
- | PGAOBTLIIVLO2 |  ???                |
- | AVAXXQDK1LBQP |  ???                |
- | U162DBKOPE6Z4 |  ???                |
- | EUGE30X2MIHTR |  ???                |
- | A6XDBT2DL67U7 |  ???                |
- | 2GS5TPIHTIVBU |  ???                |
- | K8DYWSHRMHCYK |  ???                |
+ | ------------- | ------------------- |
+ | 5VTXWA2Y587E2 | Submarine Attack    |
+ | PGAOBTLIIVLO2 | Burning Burst       |
+ | AVAXXQDK1LBQP | Confusion           |
+ | U162DBKOPE6Z4 | Forest Bridge       |
+ | EUGE30X2MIHTR | SAS                 |
+ | A6XDBT2DL67U7 | Agitation           |
+ | 2GS5TPIHTIVBU | Falcon Dive         |
+ | K8DYWSHRMHCYK | Forest Bridge       |
  
 #### Mushi (VER. 04 2ND)
- | Codes         | Card Name           |
- | ------------- | ------------------- | 
- | B7S2AY0DSI7BR | ???                 |
- | BXNN4ESQY3GV7 | ???                 |
- | BEIZAPIMS3WY0 | ???                 |
- | B82F90GXSMELP | ???                 |
- | BNX70SUEGCJQZ | ???                 |
- | BIRWNVG02T87L | ???                 |
- | 7S1FCEXLDR8X8 | ???                 |
- | PF1E8OEUKCTGU | ???                 |
+ | Codes         | Card Name             |
+ | ------------- | --------------------- |
+ | B7S2AY0DSI7BR | Alcides Stag          |
+ | BXNN4ESQY3GV7 | Blue Hercules         |
+ | BEIZAPIMS3WY0 | Anubis Beetle         |
+ | B82F90GXSMELP | Emperor Stag Beetle   |
+ | BNX70SUEGCJQZ | Fabricei Beetle       |
+ | BIRWNVG02T87L | Saturn Beetle         |
+ | 7S1FCEXLDR8X8 | Saw Tooth Stag Beetle |
+ | PF1E8OEUKCTGU | Upright Horned Beetle |
  
 #### Mushi (VER. 05 1ST parallel)
- | Codes         | Card Name           |
- | ------------- | ------------------- | 
- | LJC8M9EYY9YX9 | ???                 |
- | LKPCY3DRH0LQD | ???                 |
- | LSXAIBITQIWJA | ???                 |
- | L2N9VDDB6IX5Y | ???                 |
- | LPIJ46C9M1TBO | ???                 |
+ | Codes         | Card Name                      |
+ | ------------- | ------------------------------ | 
+ | LJC8M9EYY9YX9 | Adder Hasterti Beetle          |
+ | LKPCY3DRH0LQD | Adder Green Horne Beetle Pinch |
+ | LSXAIBITQIWJA | Adder Micro Beetle             |
+ | L2N9VDDB6IX5Y | Adder Gideon Beetle            |
+ | LPIJ46C9M1TBO | Adder Trident Beetle           |
 
 #### ISSYYOUI WAN WAN
  | Codes         | No.  | Card Name                             |
